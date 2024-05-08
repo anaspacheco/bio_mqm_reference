@@ -1,0 +1,100 @@
+1	Introducción: para combatir la pandemia de COVID-19, los gobiernos han adoptado medidas como la cuarentena y el distanciamiento social.
+2	España (n = 22); México (n = 22) y Perú (n = 15).
+3	De estos, 12 practicaban jiu-jitsu brasileño (BJJ), 54 boxeo, 67 judo, 13 karate, 52 kick boxing y muay thai (KB y MT), 9 artes marciales mixtas (MMA) y 27 taekwondo (TKD).
+4	Los datos fueron recolectados a través de entrevistas, utilizando un cuestionario estructurado, el Medical Outcome Study 36, el Indice de Katz de Independencia en las Actividades de la Vida Diaria y la medida de independencia funcional.
+5	Participaron 250 ancianos, con edad promedio de 71,9 años, varones (56,8%), color de piel blanca (67,2%), casados (54,0%), baja escolaridad (32,0%), rentas bajas (58,0%), con comorbilidades (81,2%) y proveedores a domicilio (53,6%).
+6	Las dimensiones de calidad de vida más comprometidas fueron aspecto físico (11,4%), aspecto emocional (21,6%) y capacidad funcional (25,2%).
+7	En cuanto a la capacidad funcional, se caracterizó la independencia para las Actividades Básicas de la Vida Diaria y la dependencia moderada para las Actividades Instrumentales de la Vida Diaria.
+8	Se hizo un estudio transversal con una muestra probabilística de estudiantes de media vocacional entre los 13 y los 17 años de edad en colegios oficiales y privados.
+9	La media para la edad fue de 14,4 años (desviación estándar, DE=0,8) y el 60,3 % correspondía a mujeres.
+10	El Programa de Control de la Malaria se desempeña por debajo del nivel recomendado, sin cumplir con el estándar de oro establecido, lo que puede significar mantener o aumentar los casos de malária.
+11	Se trata de una investigación evaluativa, realizada a través de la observación sistemática, con la ayuda de una forma de escala Likert, adoptando una puntuación numérica para evaluar el cumplimiento de las actividades.
+12	El tratamiento está dirigido a la prevención, la detección temprana y las intervenciones oportunas de todas las alteraciones de la coagulación generadas por la COVID-19.
+13	A su vez, tanto el personal médico como los pacientes se ven afectados por la desaceleración económica y el “efecto de la negatividad”.
+14	En este artículo de revisión se analizaron las diferentes herramientas para el control de la pandemia, su desarrollo en un contexto histórico y como impactan en la estratificación del riesgo para pacientes vulnerables (ancianos, pacientes con enfermedades crónico degenerativas y oncológicos).
+15	En relación con la calidad de los datos, se observó que no hubo dados perdidos y cinco ítems del banco Disturbio del Sueño y cuatro ítems del banco Disturbio de la Vigilia tuvieron efecto suelo, además ninguno de los bancos presentó un efecto techo.
+16	En lo que se refiere al DIF, tanto el banco Disturbio del Sueño como el Disturbio de la Vigilia mostraron ser homogéneos para los diferentes grupos testados.
+17	Con el análisis factorial confirmatorio, usándose los índices de calidad de ajuste absoluto e incremental, se verificó un buen ajuste para los dos bancos, lo que revela que los instrumentos son válidos y suficientemente unidimensionales.
+18	La justificación del estudio fue evaluar el grado de conocimiento de los farmacéuticos españoles en el ámbito de la Farmacovigilancia, su grado de notificación de Reacciones Adversas a Medicamentos (RAM) y su necesidad de formación, estableciendo las diferencias entre los farmacéuticos de farmacia comunitaria (FC) y los de farmacia hospitalaria (FH).
+19	Se diseñó un cuestionario con doce preguntas sobre Farmacovigilancia.
+20	En general, los farmacéuticos encuestados estaban de acuerdo en la importancia de la Farmacovigilancia, y opinaban que se podría mejorar la calidad de los tratamientos y se ahorraría en el sistema de salud español si se aplicara más la Farmacovigilancia.
+21	También son los FH los que conocen mejor las obligaciones que tienen con Farmacovigilancia.
+22	Los farmacéuticos encuestados piensan que el desarrollo de actuaciones en Farmacovigilancia, aumentaría la adhesión de los profesionales a la notificación e implicaría mejoras en la calidad de los tratamientos, el uso racional de los medicamentos y la seguridad del paciente.
+23	El NPI es la medida más ampliamente aplicada para la evaluación de los rasgos narcisistas de la personalidad y, por lo tanto, es de gran relevancia para muchas preguntas de investigación en personalidad y psicología social.
+24	Para desarrollar la escala corta, primero encontramos la solución óptima de ocho ítems entre todas las combinaciones válidas de los ítems NPI-15 en una submuestra exploratoria
+25	Los análisis incluyeron el cálculo de prevalencia y estimación del número absoluto de personas en la población en riesgo.
+26	La estimación presentada es importante para planear las estrategias de monitoreo de las personas con morbilidades crónicas y de prevención en el combate al nuevo coronavirus.
+27	Cerca de un 80% de los individuos de la muestra presentaron por lo menos alguna de las morbilidades evaluadas, lo que representa cerca de 34 millones de individuos; la multimorbilidad fue referida por un 52% de la población en estudio, con mayor proporción en las regiones Centro, Sureste y Sur.
+28	Cuando un brote se presenta, en la gran mayoría de los casos una diversidad de opiniones errónea comienza a surgir si no hay un epidemiólogo, el cual sabrá qué hacer y cómo hacerlo.
+29	Si el brote llegara a salirse de control, se necesitará personal de apoyo.
+30	La autoevaluación del estado de salud, fragilidad y actividades básicas de la vida diaria fueron utilizadas como marcadores de la situación de salud.
+31	Cerca de un 80% de los individuos de la muestra presentaron por lo menos alguna de las morbilidades evaluadas, lo que representa cerca de 34 millones de individuos; la multimorbilidad fue referida por un 52% de la población en estudio, con mayor proporción en las regiones Centro, Sureste y Sur.
+32	Los análisis incluyeron el cálculo de prevalencia y estimación del número absoluto de personas en la población en riesgo.
+33	El número de personas con 50 años o más que presentan morbilidades de riesgo para la COVID-19 grave es elevado, tanto en términos relativos, como absolutos.
+34	La recolección de datos incluyó comorbilidad, demografía, tiempo operatorio en tres fases (formación de reservorio, gastroyeyunoanastomosis y yeyunoyeyunoanastomosis) y complicaciones posoperatorias.
+35	Se excluyeron dos pacientes por incapacidad para abrir el video.
+36	El tiempo de ejecución para realizar tareas solo fue significativo al realizar la gastroyeyunoanastomosis.
+37	El uso de un sistema de imagen 3D se asoció con un menor tiempo quirúrgico total, en especial para la gastroyeyunoanastomosis manual, en comparación con el sistema de imagen 2D.
+38	Objetivos: evaluar el estado diétético-nutricional, la composición corporal, el comportamiento alimentario y la preocupación por la imagen corporal de las gimnastas de competición.
+39	Esta preocupación puede estar relacionada con trastornos de la conducta alimentaria, menstruación irregular, cansancio y descanso insuficiente.
+40	Introducción: entre las gimnastas adolescentes se ha observado cierta preocupación por el peso, con dietas insuficientes en energía y algunos nutrientes en búsqueda del máximo rendimiento.
+41	El Experimento de Lista—una técnica para medir de manera indirecta comportamientos de salud sensibles—podría minimizar el hecho de que las personas encuestadas subnotifiquen el número de abortos debido al estigma o a restricciones legales; sin embargo, esta técnica no ha sido aplicada previamente para estimar la prevalencia del aborto en Pakistán.
+42	Métodos: En 2018, se reclutó una muestra de 4,159 mujeres casadas en edad reproductiva, provenientes de dos comunidades de Karachi.
+43	Las participantes completaron una encuesta que incluyó un experimento de lista doble para medir la prevalencia de aborto, así como preguntas directas sobre el aborto y otras características del contexto.
+44	Están apareciendo evidencias de que la incidencia del cáncer colorrectal (colorectal cancer, CRC) está aumentando en adultos jóvenes, pero se carece de la epidemiología descriptiva necesaria para comprender mejor estas tendencias.
+45	Las tendencias temporales en las tasas de incidencia específicas por edad (incidence rates, IR) según el sexo, la localización anatómica, el quintil del índice de privación múltiple (index of multiple deprivation, IMD) y la región geográfica se analizaron mediante un modelo de regresión joinpoint.
+46	CONCLUSIÓN: El CRC ya no debe ser considerado una enfermedad de las personas mayores: los cambios en las tasas de incidencia deberán tenerse en cuenta en las futuras políticas de cribado, en las estrategias preventivas y en los proyectos de investigación, así como para aumentar la toma de conciencia de la población de que las personas más jóvenes deben estar al corriente de los síntomas del CRC.
+47	En el marco de la Estrategia Mundial del sector de la salud contra las hepatitis víricas y el Plan Estratégico de Abordaje de la Hepatitis C en el Sistema Nacional de Salud (SNS), la Secretaría del Plan Nacional sobre el Sida, junto a la Unidad de Programas de Cribado del Ministerio de Sanidad, han coordinado entre 2019 y 2020 las políticas estatales en torno al cribado de la infección por el virus de la hepatitis C (VHC) en España.
+48	En este artículo se describe la experiencia y reflexiones surgidas en torno a ella.
+49	La tasa de LR fue del 17% (n = 27/159), 6,7% (n = 39/580), 1,9% (n = 2/103) y 3,4% (n = 254/7550) cuando el CRM fue de 0,0 mm, 0,1-1,0 mm, 1,1-1,9 mm y CRM ≥ de 2 mm, respectivamente.
+50	Se cree que un margen de resección circunferencial (circumferential resection margin, CRM) de ≤1,0 mm tras la cirugía de cáncer de recto aumenta el riesgo de recidiva local (local recurrence, LR).
+51	Evaluar la eficacia, seguridad y tolerabilidad del cannabinoides nabiximol de aplicación en spray bucal como terapia complementaria para niños con espasticidad debido a parálisis cerebral o lesión traumática del sistema nervioso central que no responden al tratamiento convencional.
+52	En este trabajo se hace una revisión histórica y del estado actual del abordaje del trauma vascular periférico, sobre la base de un episodio heroico de la Campaña por la Ciudad de México durante la invasión norteamericana de 1846-1848: la defensa del Castillo de Chapultepec por el cadete Agustín Melgar.
+53	Por fortuna, la comprensión integral de la fisiopatología local y sistémica, en adición al desarrollo de técnicas quirúrgicas innovadoras y avances tecnológicos, ha mejorado el pronóstico relativo a la sobrevida y la conservación anatómica y funcional de las extremidades.
+54	El trauma del órgano vascular periférico es una condición muy frecuente en los conflictos militares.
+55	Las nuevas tecnologías tienden puentes y acortan distancias, ya que permiten nuevas maneras de conectarse, de cuidarse mutuamente y de reinventar las relaciones transnacionales y lo que constituye la vida familiar, pero estos puentes no pueden anular la pérdida sufrida por los que se quedan.
+56	Analizamos también la tendencia de interiorización de la COVID-19 en el estado, considerándose la distribución porcentual de casos ocurridos en Recife, municipios de la Región Metropolitana de Recife y del interior, por conjuntos de tres semanas, con unas construcciones de mapas temáticos.
+57	Finalmente, se cuestiona, parafraseando a García Márquez en Cien Años de Soledad, si estamos ante “un periodo de remisión o la antesala de un recrudecimiento”.
+58	Se dividieron en cuatro grupos según el índice de masa corporal (IMC): 80 eutróficas (E), 40 con sobrepeso (OW), 40 con obesidad de clase I (OI) y 40 con obesidad de clase II (OII).
+59	Se midieron los perfiles lipídicos y glucémicos y se evaluó el estrés oxidativo a través de las concentraciones séricas de ácido úrico, glutatión-peroxidasa (GSH-Px) y sustancias reactivas del ácido tiobarbitúrico (TBARS).
+60	Conclusiones: se observó correlación entre las concentraciones séricas de retinol y caroteno y los perfiles glucémico, lipídico y de marcadores de perfiles de estrés oxidativo en los grupos estudiados.
+61	Introducción: la evidencia indica un papel de la vitamina A en la regulación de la masa grasa que influye en la obesidad y las enfermedades cardiovasculares.
+62	Equilibrar las conductas de actividad durante todo el día, con una mejor actividad física, una reducción del tiempo sedentario y conductas de sueño saludables, puede preparar a los bebés, niños en edad preescolar y escolar con PC para una trayectoria saludable a lo largo de su vida.
+63	Los primeros treinta años del siglo XIX significaron para México tiempos en pro de la Independencia, de la lucha armada y también fueron tiempos de fuerte inestabilidad política.
+64	Los societarios padecieron inquietudes personales y problemas colectivos y los españoles peninsulares tuvieron que tomar decisiones frente al movimiento independentista.
+65	Ellos no coincidieron durante su estancia mexicana, pero sí en el sostenimiento de sus ideologías y en sus aportes a la medicina.
+66	El lector encontrará información sobre sus vidas personales y profesionales en su España antes de pasar a México, durante su estancia en este país y en su retorno a la patria de origen.
+67	Se utilizaron medidas de tendencia central para presentar los datos.
+68	El costo anual por las camas frías/muertas fue de $959,220.00 US$ ($14,348,304.00 MNX), sin beneficio para los pacientes.
+69	Las camas frías/muertas representaron el 1.31% del presupuesto hospitalario anual en el año 2015.
+70	El costo del día/cama se obtuvo de lo oficial publicado para la nación. 943 pacientes fueron seguidos durante el proceso de egreso.
+71	Sin embargo, poco se sabe sobre la disposición de las instituciones de salud del país para proveer servicios integrales de aborto.
+72	Métodos: Se utilizaron datos de 1,380 instituciones de salud a partir de la Encuesta Inventario sobre la Evaluación de la Prestación de Servicios (EPS) con el fin de evaluar la disposición para proveer servicios de aborto en cuatro dominios: terminación del embarazo, tratamiento básico de complicaciones postaborto, tratamiento integral de complicaciones postaborto y servicios anticonceptivos postaborto.
+73	Los análisis utilizaron una aplicación modificada del enfoque de función de señales de atención obstétrica de emergencia; los criterios para disposición se basaron en las pautas de la Organización Mundial de la Salud.
+74	Introducción: en pacientes con obesidad severa y mórbida se ha observado que la evaluación por bioimpedanciometría (BIA) genera una subestimación de la masa grasa (MG) y del peso perdido como MG después de la cirugía bariátrica, sobreestimándose la pérdida de masa libre de grasa (MLG) y la masa muscular.
+75	Resultados: antes del BPGYR, la BIA sobreestimó el ACT en 2,6 ± 4,3 L (p = 0,002) y la MLG en 3,5 ± 5,7 kg (p = 0,002), y subestimó el %MG en 2,98 ± 4,7% (p = 0,002).
+76	Analizar el incremento de los casos centinela de COVID-19 en México calculados a partir del número efectivo de reproducción de la infección
+77	(R En un diseño transversal analítico se estudió el total de casos de COVID-19 en México del 29 de febrero al 24 de julio de 2020, y se comparó con los casos centinela calculados a partir del R En México, hasta el 24 de julio de 2020 se habían producido 390,516 casos de COVID-19 y 43,680 defunciones por esta enfermedad; con el uso del R El modelo centinela presenta una pérdida importante de información no cuantificada.
+78	Determinar la prevalencia de C. trachomatis en mujeres de Medellín, determinar los posibles factores de riesgo y evaluar la relación con la infección por el virus de papiloma humano (HPV).
+79	A pesar de su importancia, en Medellín no se cuenta con suficientes datos epidemiológicos sobre esta infección.
+80	Se encontró una relación significativa de la infección con la edad, el consumo de cigarrillo y el uso de anticonceptivos hormonales.
+81	Investigaciones anteriores indican que las parejas que hacen frente a una enfermedad crónica desde una orientación relacional basada en el “nosotros” tienen resultados más positivos que las parejas que la enfrentan individualmente; sin embargo, existen escasas investigaciones previas que identifiquen los procesos clínicos que promueven la reciprocidad o la manera en la que están implicados los procesos de género social.
+82	Este análisis de teoría fundamentada de 25 sesiones de terapia videograbadas con seis parejas heterosexuales que enfrentan una enfermedad hepática crónica utilizó una óptica relacional fundamentada en el feminismo para centrarse en los procesos clínicos relacionados con el paso de una orientación individual a una relacional.
+83	Las implicancias clínicas tratan de las intersecciones complejas entre el género, el cuidado y los obstáculos contextuales para la reciprocidad.
+84	Los hallazgos identificaron tres obstáculos contextuales para lograr una “orientación basada en el nosotros”: (a) el discurso de autonomía, (b) el poder relacionado con la enfermedad, y (c) el poder asociado al género.
+85	Recientemente, la FDA también ha aprobado dos fármacos muy prometedores en basea sus resultados en estudios fase II. Erdafitinib, el primer fármaco anti-diana para pacientes con alteraciones en FGFR 2/3, con una TR de 40% y una SG de 13,8 meses, y enfortumab-vedotin, un anticuerpo conjugado, con una TR de 44%, 12% respuestas completas (RC) y SG de11,7 meses, ocupan hoy un lugar en el panorama terapéutico anglosajón.
+86	En los últimos años se han aprobado tres fármacos inmunoterápicos en Europa (pembrolizumab, atezolizumab y nivolumab) y cincoen EEUU (pembrolizumab, atezolizumab, nivolumab,durvalumab y avelumab), logrando mejoras en términos de supervivencia global (SG), tasa de respuestas (TR) y perfil de tolerabilidad.
+87	Las únicas alternativas eran la inclusión en ensayo clínico o el tratamiento quimioterápico fuera de indicación con eficacia limitada y alta toxicidad.
+88	Los primeros treinta años del siglo XIX significaron para México tiempos en pro de la Independencia, de la lucha armada y también fueron tiempos de fuerte inestabilidad política.
+89	Los societarios padecieron inquietudes personales y problemas colectivos y los españoles peninsulares tuvieron que tomar decisiones frente al movimiento independentista.
+90	Es el caso de dos médicos españoles: uno de ellos, después de manifestarse en sus escritos contra la insurrección, aceptó que el movimiento era irreversible y la única solución a su postura fue el abandono voluntario de México.
+91	Ellos no coincidieron durante su estancia mexicana, pero sí en el sostenimiento de sus ideologías y en sus aportes a la medicina.
+92	El nivel de activación que presentan los sujetos con TDAH es mayor antes de tomar tratamiento, e influye en los patrones circadianos, el sueño y la calidad de vida.
+93	El conflicto entre padres y adolescentes se ha estudiado como precursor de riesgos del desarrollo a nivel macro y a largo plazo y como resultado de los patrones de interacción a cada momento y a nivel micro.
+94	El presente estudio analiza los procesos recíprocos diarios y residuales en las experiencias de enfado y conflicto de los padres y los adolescentes.
+95	La morbilidad por EDA disminuyó 42.1% en el periodo, sin embargo, la atención por urgencias aumentó 50.7% en SS.
+96	Sin embargo, en 2016 se encontró una tasa de 3.4 por 100 000 personas que mueren por EDA, lo cual podría evitarse con promoción de la salud.
+97	Se analizaron datos de vigilancia epidemiológica, prestación de servicios y estadísticas vitales.
+98	Ofrecer un panorama de la morbimortalidad por enfermedad diarreica aguda (EDA) entre 2000 y 2016 en México, para entender su magnitud, distribución y evolución.
+99	Se calcularon tasas de utilización de servicios y mortalidad.
+100	Al desestructurar las funciones normativas del sistema sanitario, el marco permitió realizar un mapeo completo de los diversos atributos del sistema sanitario (funciones, leyes y organismos de ejecución).

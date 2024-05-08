@@ -1,0 +1,100 @@
+1	The abnormal expression of EZH2 has been described in many cancer types.
+2	In this review, the expression and clinical significance of EZH2 in various of hematological tumors were summarized briefly.
+3	However, these drugs are administered via intravitreal injections that are associated with sight-threatening complications.
+4	As such, there has been great interest in developing sustained delivery platforms for anti-VEGF agents to the posterior segment of the eye.
+5	The characteristics of an ideal sustained delivery platform will then be discussed.
+6	Finally, the current available strategies will be analysed with the above-mentioned characteristics in mind to determine the advantages and disadvantages of each sustained drug delivery modality.
+7	Very high-resolution (VHR) satellite sensors can be used to estimate the size of animal populations, a critical factor in wildlife management, and acquire animal spatial distributions in an economical, easy, and precise way.
+8	We developed a method for satellite population size estimation that includes a noninvasive photogrammetry, from which the animal's average orthographic area is calculated, and an imagery interpretation method that estimates population size based on the ratio of an observed animal population area to the average individual area.
+9	As a proof of concept, we used this method to estimate the population size of Whooper Swans (Cygnus cygnus) in a national nature reserve in China.
+10	These results demonstrate that our method produced robust data for population size estimation that were indistinguishable from manual count data.
+11	Our method may be used generally to estimate population sizes of visible and gregarious animals that exhibit high contrast relative to their environments and may inform estimations of populations in complex backgrounds.
+12	To reduce errors, the reserve was subdivided into regions of interest based on locations of Whooper Swan and background brightness.
+13	To review the research progress of adrenergic β-antagonists on wounds and diabetic chronic cutaneous ulcers healing in recent years, and to investigate its application prospect in diabetic foot ulcer (DFU).
+14	Digital prosthodontic technology has brought great changes to the prosthodontic technology in China by improving the quality of prostheses, adding new types of restorations, changing the manufacturing methods of restorations from handmade to computer-aided manufacturing, bringing new operating models of dental laboratories, and promoting the academic status of the prosthodontic technology.
+15	The current phenomenological study examined, through the eyes of immigrant parents, how they comprehend their children's involvement in delinquent behavior.
+16	This study examined in-depth semistructured interviews conducted with fourteen immigrant parents (10 mothers and 4 fathers) from the former Soviet Union in Israel of children treated in rehabilitation facilities for delinquent youth.
+17	Data analysis revealed a gradual decline in children's behavior ascribed to the developmental stage of adolescence, the pressures of immigration, and cultural conflict.
+18	These three factors are interwoven together to create a fabric within which they see their children turning to crime.
+19	Parents' gradual loss of control is balanced by attempts to idealize the parent-child relationship and to minimize the severity of the offenses committed.
+20	They describe various differing and even contradictory experiences of themselves as parents and their struggles to piece together incohesive, alternating experiences of themselves as parents.
+21	This study examined in-depth semistructured interviews conducted with fourteen immigrant parents (10 mothers and 4 fathers) from the former Soviet Union in Israel of children treated in rehabilitation facilities for delinquent youth.
+22	Despite the critical role they can play in their children's rehabilitation, as well as the distress that they themselves experience, parents of children involved in delinquent behavior have often been ignored in research.
+23	The infection rate (or the incidence) reflects the prophylactic effect in population.
+24	Furthermore, medical professionals and sufficient medical supplies from other provinces have been assigned to join in the fighting against the epidemic in Wuhan.
+25	The unusual, extremely costly public health interventions including the temporarily city quarantine and transportation ban issued by the central government are crucial in controlling this epidemic.
+26	Second, the vicious circle of profit-seeking-caused "attaching importance to clinical treatment and despising disease prophylaxis" should be immediately broken to optimize the national health service system in China by increasing the investment in public health service.
+27	Its ability to act directly at high concentrations as a nicotinic agonist is critical for normal brain circuit development.
+28	However, definitive proof of the efficacy of prenatal choline supplementation will not be available for decades (because of the 20-year lag until the onset of schizophrenia), so public health officials need to decide whether or not promoting choline supplementation is justified based on the limited information available.
+29	Dietary requirements for choline are high during pregnancy because of its several uses, including membrane biosynthesis, one-carbon metabolism, and cholinergic neurotransmission.
+30	Kenya's Constitution of 2010 triggered a cascade of reforms across all sectors to align with new constitutional standards, including devolution and a comprehensive bill of rights.
+31	The constitution acts as a platform to advance health rights and to restructure policy, legal, institutional and regulatory frameworks towards reversing chronic gaps and improving health outcomes.
+32	These constitutionally mandated health reforms are complex.
+33	Our analysis revealed multiple structures (laws and implementing public bodies) formed across the health system, with many new stewardship structures aligned to devolution, but with fragmentation within the regulation sub-function.
+34	Constitutional reform is a mobilizing force for large leaps in health institutional change, boosting two aspects of feasibility for change: stakeholder acceptance and authority to proceed.
+35	Although the influence of neighborhood disadvantage on youth development of delinquent behavior is well established, findings from this research have yet to inform the development of family-centered prevention programming to protect youth from these erosive effects. The current paper examines the role of family integration in buffering the impact of social disadvantage in a sample of N = 298 families randomly assigned either to a control condition or to a family-based prevention program previously shown to enhance marriage and parenting.
+36	Furthermore, using mediated moderation analysis, the study tested the buffering effect of greater family integration, showing that experimentally produced change in interparental communication skills and the resulting reduction in youth exposure to parental conflict buffered the effect of neighborhood disadvantage on change in youth delinquent behaviors, supporting a mediated moderation model in which family environments buffer neighborhood effects.
+37	Legal consumption was derived from Government of India data on domestic cigarette production and trade.
+38	To estimate the magnitude of illicit cigarette consumption in India using a tax-gap approach.
+39	Estimated illicit cigarette consumption was, therefore, 5.4 billion sticks in 2009 to 2010 and 5.6 billion sticks in 2016 to 2017, and accounted for 5.1% and 6.0% of the market in these periods, respectively.
+40	To explore whether unicompartmental knee arthroplasty (UKA) and total knee arthroplasty (TKA) or bilateral TKAs should be performed in patients with bilateral knee osteoarthritis.
+41	Ancient medical books have the names of drugs such as "xinghe" (, apricot pit), but there is only the name "xingren" (, almond) in modern medical books.
+42	On the basis of checking Chinese dictionary, exegetical books and ancient literature, it is believed that the ancients could clearly distinguish the difference between "he" (, pit) and "ren" (, nut) in actual use, and realized that the pit and the nut are different parts.
+43	By investigating the usage of ancient medical literature, it can be seen that the actual medicinal part of the medicine "xinghe" (, apricot pit) means still almonds.
+44	Therefore, in ancient times, the "xinghe" (, apricot pit) and "xingren" (, almond) are actually different names for the same medicinal part.
+45	Currently, the majority of the evidence-based treatments, such as Applied Behavior Analysis, overlook the notable systemic effects of ASD and maintain a problem-focused lens.
+46	There is a growing body of research calling for strength-based, relational interventions that build on existing resources to enhance coping, efficacy, and well-being among families affected by ASD.
+47	Solution-Focused Brief Therapy (SFBT) is a widely practiced clinical approach that is increasingly being used among clinicians to address the systemic effects of developmental disabilities in the family.
+48	As the prevalence of autism spectrum disorder (ASD) continues to rise, there is a rapidly increasing need for treatment services among individuals diagnosed with ASD and families.
+49	However, particular modifications to specific interventions may better accommodate autism-associated deficits in executive functioning (e.g., goal development and impulsivity), perspective taking, or restricted interests when using an SFBT approach.
+50	A case presentation is included to demonstrate SFBT as informed by the unique challenges and inherent resources of families affected by ASD that have been identified in the extant literature.
+51	This article reviews the rationale of the four types of association analyses and discusses the situations in which diplotype-based analyses are more powerful than the other types of association analyses.
+52	In circumstances where there are no interaction effects between markers and where the criteria for Hardy-Weinberg Equilibrium (HWE) are met, the larger sample size and smaller degrees of freedom of allele-based and haplotype-based association analyses make them more powerful than genotype-based and diplotype-based association analyses, respectively.
+53	This article reviews the rationale of the four types of association analyses and discusses the situations in which diplotype-based analyses are more powerful than the other types of association analyses.
+54	More recently, association studies using diplotypes (haplotype pairs on homologous chromosomes) have become increasingly common.
+55	Compared with the model control group, the WBC in each group was significantly lower (P＜0.05, 0.01) on the 4th-8th day after drug intervention; However, there was no statistical significance between the two groups of SXXBC and indirubin (P＞0.05).
+56	Compared with the model control group, the total number of megakaryocytes in each treatment group were decreased (P＜0.05, P＜0.01), in which the number of primary megakaryocytes in the large and medium dose groups of SXXBC and indirubin were decreased (P＜0.05, 0.01), and the number of juvenile megakaryocytes in the large dose group of SXXBC and indirubin were also decreased (P＜0.05).
+57	Both of the SXXBC and the indirubin standard all show good hemostatic effects.
+58	Finally, the system conformational change was explored by using free energy landscape and conformational cluster.
+59	The result showed four kinds of dominant conformation, which provides theoretical basis for subsequent design of Faldaprevir analogue inhibitors based on the structure of HCV NS3/4A protease.
+60	To investigate the effectiveness of anterolateral femoral flap in combination with fascia lata grafting in repair of large Achilles tendon and skin defects.
+61	The dorsiflexion range of the affected side was (21.55±1.26)°, which was significantly different from that of the healthy side (25.23±1.45)° (  The application of anterolateral femoral flap in combination with fascia lata grafting for the repair of large Achilles tendon and skin defects can achieve good effectiveness.
+62	This paper reviews the limitations of current infectious disease surveillance and early warning system in China, analyzes the concepts and countermeasures of the establishment of an intelligent early warning platform of infectious diseases based on multi-point trigger mechanism and multi-channel surveillance mechanism and proposes the realization routes for the purpose of facilitating capacity building and improvement of surveillance and early warning of infectious diseases in China.
+63	The genetic mutation results and clinical data of 19 children with JMML in Fujian from January 2015 to December 2018 were collected and analyzed retrospectively.
+64	The median age at diagnosis was 13(3-48) months, and 14 cases (73.68%) were less than 2 years old.
+65	There has been a sharp rise of reported handheld laser-induced maculopathy (HLIM) cases over the past decade, a concerning trend that may continue due to unregulated online access to high power lasers.
+66	Though HLIM has distinct clinical features, not uncommonly it may masquerade as other retinal disorders.
+67	It is critical therefore to recognise the clinical and multimodal imaging characteristics of this important and potentially devastating condition.
+68	In addition, we present a unique case of HLIM, resembling the presentation of a placoid disease variant and illustrating choroidal ischaemia using advanced retinal imaging, that offers further insight into the mechanisms of laser injury and its complications.
+69	The issues addressed in this review aim to increase recognition of an increasingly important and trending condition with potentially profound visual complications.
+70	A study analysing written responses to open-ended questions about peer support, collected via an online survey distributed in Sweden.
+71	Respondents were recruited during 3 months in 2018 by means of convenience sampling, through ads via the Swedish foundation for families with children who have heart defects and two closed Facebook groups for peer support.
+72	An online survey containing open-ended questions was distributed and responses were analysed with systematic text condensation.
+73	Listening to the stories of peers meant an opportunity to gain useful insights about what life is like for parents of children with heart defects.
+74	Receiving and providing peer support was described as rewarding on a personal level.
+75	Peer support is emotionally relieving and appreciated among parents of children with congenital heart defects, who consider providing the support a rewarding responsibility.
+76	The main findings illustrate the potential impact peer support can have on individuals and calls attention to the experienced benefits related to peer support activities, while also providing some insights regarding potential negative aspects.
+77	Peer support was grounded in a mutual understanding among parents and involved highly appreciated emotional support.
+78	In recent years, the role of new viral markers such as HBV RNA, hepatitis B core-related antigen (HBcrAg) and quantitative anti-hepatitis B core protein (qAnti-HBc) have attracted more and more attention because of accurately reflecting the transcription activity of cccDNA, determining the therapeutic effect and predicting the risk of recurrence after drug discontinuation.
+79	30 patients diagnosed as PCL in our hospital from January 1993 to December 2019 were enrolled, and the clinical characteristics, laboratory findings, therapeutic regimes, and survival data of the patients were retrospectively analyzed.
+80	The median age of the 30 patients was 56.5 (28-80) years old, among them, 25 patients were primary plasma cell leukemia, and 5 patients were secondary plasma cell leukemia.
+81	Among the 20 cases of chromosome G banding, 11 (55%) cases were complex karyotypes and 8 (40%) cases were hypodiploid.
+82	Fluorescent in situ hybridization (FISH) test showed that among 11 cases, 6 cases showed 17p13 deletion, 8 cases showed at least two kinds of abnormalities, which including t (14; 16), t (8; 14), t (11;14), 17p13 deletion, and 13q14 deletion.
+83	The median overall survival (OS) time was 10.5 months for all patients.
+84	The median OS time of the patients in ECOG score ≤ 2 group was 21.5 months, which was significantly longer than those in the ECOG score>2 group(1.2 months) (P=0.017).
+85	For the patients treated with novel agents, the median OS time of patients accepted two novel agents combination was 30.9 months, which was longer than those of single novel agent(11.5 months) (P=0.021).
+86	There is no fully developed in vivo model of IIH but this remains an area of importance.
+87	Insight into pathophysiological underpinnings has arisen from astute clinical observations, studies, and an array of preclinical models.
+88	SCORE-15 (Systemic Clinical Outcome and Routine Evaluation) is a 15-item questionnaire for completion by family members aged 12 years and older to assess outcomes in systemic therapy.
+89	This study aimed to investigate (a) the psychometric properties and the internal consistency reliability of the Italian version of SCORE-15, (b) clinical responsiveness, and (c) normative (Italian) criteria.
+90	Furthermore, results showed that SCORE-15 is a good instrument for clinical responsiveness and that it can be used to explore the way in which family members describe their families and problems.
+91	Overall, SCORE-15 is a brief, psychometrically robust family assessment instrument that may be used for both researchers and practitioners in several domains of clinical and social psychology.
+92	In this article, we explore the impact of South African families' emigration on parents/grandparents who must renegotiate their lives in their loved ones' physical absence.
+93	We adopted a transnational perspective in a bigger qualitative project to consider both sides of the migratory spectrum.
+94	Our findings illustrate the complex emotions and relational changes experienced by elderly people whose families emigrate.
+95	New technologies bridge distances, allowing new ways to connect and take care of each other, and of re-imagining transnational relationships and what constitutes family life, but these bridges cannot negate the loss experienced by those remaining.
+96	Our findings stress grandparents' meaningful role in a family system and highlight some gendered and racial differences in families' experiences.
+97	Child welfare systems (CWSs) worldwide show increased interest in adopting empirically informed clinical strategies to increase treatment effectiveness.
+98	Many empirically supported treatments (ESTs) exist, but little is known about EST implementation barriers and facilitators in CWS.
+99	Sixteen CWS providers (twelve counselors and four supervisors) involved in three home-based services were interviewed.
+100	The Consolidated Framework for Implementation Research (CFIR) was used to guide collection, coding, and analysis of interview data.

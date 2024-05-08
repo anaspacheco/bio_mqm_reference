@@ -1,0 +1,100 @@
+1	Taizhou, a city in Zhejiang province with about 6 million residents, reported 18 confirmed COVID-2019 cases by 23 January 2020, which ranked it third globally in number of cases after Wuhan and Xiaogan cities in the Hubei province.
+2	Identifying and managing imported cases and people at risk for infection, timely information sharing, limiting gatherings and ensuring collaborations between different agencies were important in controlling COVID-19.
+3	It gives the data of a morphological study of heart specimens and a detailed characterization of a myocardial infiltrate.
+4	The article considers the COVID-19 pandemic impact on the population mental health, the main psychogenic and somatogenic mental disorders associated with COVID-19 are distinguished.
+5	Combination with FCD IIIb was observed in 3 cases.
+6	In addition, in 9 cases, they had significant signs of neoplastic process such as contrast enhancement, continued growth and remodeling of the underlying bone.
+7	The Council of Experts of Neurologists and Rehabilitation Therapists gathered to develop unified approaches to manage stroke patients based on a discussion of practical experience and, taking into account the scientific information on COVID-19 that was available by the time of the meeting.
+8	During the meeting, a resolution was developed in which the experts formulated the tactics of medical rehabilitation of patients with stroke and COVID-19 at the first and second stages.
+9	The phenomenon of multiphase survival curves found in drosophila is confirmed in experiments on daphnia.
+10	Mathematical modeling showed that the multiphase nature of the daphnia survival curves reflects abrupt changes in the intensity of death of crustaceans during the transition from phase to phase.
+11	A logical conclusion was made about the readiness for reaction of each experimental individual.
+12	It is postulated that this reaction has an epigenetic nature.
+13	Inducing of pathological autoimmune response contributes to the development of Miller Fischer and Guillain-Barré syndrome.
+14	New technologies integration in the daily dental practice dictates the need for of new standards formation and a list of expenditure of inventories in the provision of medical and diagnostic assistance in the field of «dentistry».
+15	The features of vertebral pain (VP) and quality of life in postmenopausal women were analyzed depending on the number and location of vertebral fractures (VF).
+16	It was found that the intensity of pain in thoracic and lumbar spines, according to McGill pain index, was significantly higher in patients with two or more VF compared to women without any fractures, and absence of differences in subjects with a single VF.
+17	Most indices of 11-component Numerical Rating Scale at the thoracic spine were significantly higher only in females with two or more VF.
+18	In patients with thoracic spine fractures most parameters of VP measured at this level were significantly higher compared to control values, whereas in patients with lumbar spine fractures most indices did not differ from the corresponding parameters in subjects without fractures.
+19	Novel coronavirus SARS-CoV-2 and COVID-19, besides affecting the respiratory system, may lead to central and peripheral nervous system disorders and also cause muscular symptoms.
+20	To compare transpedicular endoscopic sequestrectomy and discectomy in the treatment of lumbar intervertebral disc herniation with a high degree of migration.
+21	The aim of our investigation was to assess the remote results of valve-sparing aortic root reimplantation into the graft (Florida Sleeve technique) compared with reimplantation of the aortic valve into the graft (David technique) during surgical correction of ascending aortic aneurysms accompanied by concomitant aortic insufficiency.
+22	The patients were randomized into 2 groups: group I - aortic root reimplantation according to the Florida Sleeve technique (FS group) and group II - reimplantation of the aortic valve according to the T. David technique in David I modification (D group).
+23	Aortic root reimplantation inside the prosthesis according to the Florida Sleeve technique makes it possible to simplify and accelerate the procedure of aortic root reconstruction in patients with aortic root aneurysms and concomitant aortic insufficiency, demonstrating long-term results comparable with those of the David technique.
+24	Our single-centre, blind, prospective, randomized study carried out from 2011 to 2015 included a total of 64 patients with ascending aortic aneurysms and aortic insufficiency.
+25	According to the obtained findings, the technique of a valve-sparing operation is not a predictor of either lethality (RR 0.98 (95% CI 0.23-4.15), p=0.98) or prosthetic repair of the aortic valve (RR 2.03 (95% CI 0.40-14.63), p=0.40) in the remote period of follow up.
+26	The overall 7-year survival for the FS group and D group amounted to 83% and 85.6%, respectively (p=0.98).
+27	Freedom from prosthetic repair of the aortic valve in the remote follow-up period amounted to 92.8% and 85.8% for the FS group and D group, respectively (p=0.4).
+28	The paper describes an autopsy case of congenital heart disease as a single ventricle with transposition of the great vessels in a woman who survived to the age of 58 years.
+29	Due to hemoconcentration that has compensated for chronic hypoxia, the woman received low-molecular-weight heparin, which was complicated by severe heparin-induced thrombocytopenia resulting in death from cerebral hemorrhage.
+30	The author is inclined to explain the unusual clinical course of the disease by the fact that despite the mixing of arterial and venous bloods, transposition of the great arteries in the patient must have been accompanied by the flow of the bulk of arterial blood into the aorta and venous blood into the pulmonary trunk.
+31	However, given the high prevalence of epilepsy among patients after age 60, an increased burden of somatic comorbidities among people with epilepsy, as well as the need of continuous access to antiepileptic drugs (AED) and care for patients with epilepsy, there are a number of important concerns in time of regarding the management of epilepsy during COVID-19 pandemic.
+32	Using a number of studies [clock drawing test, MMSE, Spielberger-Hanin, Bourdon test and cognitive evoked potentials (P300 peak)], cognitive functions of 60 elderly patients (mean age - 61,3±12,4 years) with various degrees of chronic head ischemia were analyzed brain and discirculatory encephalopathy of the I-III stages.
+33	Depending on the treatment regimen, patients were divided into 2 groups: 34 (the main group) received Cytoflavin in the treatment regimen: 2 tablets 2 times/day for 2 months.
+34	The majority (81,7%) of patients revealed cognitive disorders of varying severity.
+35	New prospects associated with the use of laser radiation of different wavelengths in the ultraviolet (365 nm) and the green emission spectrum (525 nm) have appeared in recent years.
+36	To analyze the efficacy and safety of fampridine** (Valenta Pharm, Russia) in the complex therapy of multiple sclerosis (MS).
+37	( The proportion of patients with reduced t25fw test time compared to the baseline level was 31.7% in the fampridine group, which is higher than in the placebo group - 3.0%
+38	There is a lack of a comprehensive theory about how cranium base influences the development of facial skull morphology.
+39	Aim of this research is to analyze anatomical and morphological features of sphenoid and vomer and their interrelationship in patients with different facial types of the skull.
+40	The sample was divided into three groups depending on the facial type: mesocephalic, brachycephalic and dolichocephalic, and each group was further divided by three, depending on the skeletal class: I, II and III. Proportions, shape and positioning of sphenoid and vomer were studied on frontal and sagittal planes.
+41	The results of CBCT analysis suggest that there are differences between groups with different facial types and different skeletal classes in shape and proportions of sphenoid body and sinus, as well as in shape and position of the vomer.
+42	The greatest difference is registered on the sagittal planes of CBCT between groups with brachycephalic and dolichocephalic facial types.
+43	Basicranial bones differ in shape, proportions and position between people with different facial types and different skeletal classes.
+44	Shape of the bones was described with angles: Va, N-S-PSO, SSE-S-PSO.
+45	44 patients were examined and surgeries were performed: 12 patients with ameloblastoma, 14 - with keratoxystone tumor, 18 - with dentigerous cyst.
+46	The patients were subdivided into two equal groups of 60 each.
+47	Group One patients were subjected to implantation of bare-metal stents, whereas Group Two patients received stents coated with zotarolimus as an antiproliferative agent.
+48	Surgical policy in treatment of patients suffering from concomitant valvular pathology and ischaemic heart disease is an extremely important problem of contemporary cardiac surgery.
+49	With the advent of advanced techniques and due to the improvement of old ones, there have over the last decades appeared new approaches to treatment of this cohort of patients.
+50	In connection with the increased range and scope of operative interventions on vessels, it was essential to develop the previously existing and to establish new vascular surgical approaches.
+51	The WHO Classification of Digestive System Tumors (WHO, 5th Edition, 2019) presents new provisions on the morphological, molecular genetic, and therapeutic aspects of hepatocellular carcinoma (HCC).
+52	( Reamberin significantly increases the work efficiency by 19-21%, and workability degree by 8-12% compared with the patients of the control groups.
+53	Thus, the addition of reamberin into the treatment of children with epilepsy should be considered clinically reasonable, and promising.
+54	To study the efficacy of reamberin in treatment of epilepsy in children and to evaluate its effect on the cognitive functions.
+55	The first study group
+56	To evaluate the effectiveness of use of low-frequency «thresholdless» transcranial magnetic stimulation in the treatment of patients in acute period of ischemic stroke.
+57	( In patients of the 1st (main) group, an increase in the linear velocity of blood flow in the internal carotid artery on the side of lesion was revealed by 18.1% when compared with the 2nd (control) group
+58	( The inclusion of low-frequency transcranial electromagnetic stimulation in complex rehabilitation leads to the regression of movement disorders, reduces the level of anxiety and depression, improves daily activity and, as a consequence, the quality of life.
+59	As you know, complete successful recovery in stroke patients occurs only in 8% of cases, 20% need constant care.
+60	The patients in subgroups B of both groups in order to prevent progression of limb ischaemia were additionally given Neovasculgen, a genetically engineered drug for stimulation of angiogenesis.
+61	The achieved result is due to the integration of improved cardiac training techniques and a procedure package aimed at cardioprotection and metabolic myocardium adaptation to ischemia, which included enhanced external counterpulsation, general dry air carbon dioxide and infrared matrix laser therapy.
+62	Intended for use by non-specialist personnel working at community level, the system includes five signs, each of which can be present or absent in any eye: (i) trachomatous trichiasis; (ii) corneal opacity; (iii) trachomatous inflammation-follicular; (iv) trachomatous inflammation-intense; and (v) trachomatous scarring.
+63	The most pronounced dynamics in relation to different severity of functional disorders was found for cortisol, aldosterone and estradiol (p=0,014-0,022) in men under the age of 60 years and for testosterone (p=0,001-0,0001) in men 60-88 years.
+64	The measurement of the film thickness of the composite cement Variolink Esthetic («Ivoclar-Vivadent», Liechtenstein) and the microhybrid composite Enamel («Micerium», Italy) was carried out according to ISO 4049: 2009 standards with a load force of 5 kg.
+65	While reducing the load force to 5 kg, all materials showed an increase in the film thickness; the film thickness of the Variolink Esthetic composite cement was changed from 23 microns (at 15 kg) to 32 microns (at 5 kg), and the film thickness of the microhybrid composite film Enamel was changed from 39 microns (at 15 kg) to 102 microns (at 5 kg).
+66	To evaluate two pooled-sample analysis strategies (a routine high-throughput approach and a novel context-sensitive approach) for mass testing during the coronavirus disease 2019 (COVID-19) pandemic, with an emphasis on the number of tests required to screen a population.
+67	With the routine high-throughput approach, heterogeneous sample pools are formed randomly for polymerase chain reaction (PCR) analysis.
+68	With the novel context-sensitive approach, PCR analysis is performed on pooled samples from homogeneous groups of similar people that have been purposively formed in the field.
+69	In both approaches, all samples contributing to pools that tested positive are subsequently analysed individually.
+70	Both pooled-sample strategies would save substantial resources compared to individual analysis during surge testing and enhanced epidemic surveillance.
+71	The context-sensitive approach offers the greatest savings: for instance, 58-89% fewer tests would be required for a pooled group size of 3 to 25 samples in a population of 150 000 with an infection prevalence of 1% or 5%.
+72	Correspondingly, the routine high-throughput strategy would require 24-80% fewer tests than individual testing.
+73	In particular, the novel context-sensitive approach, which uses pooled samples from homogeneous population groups, could substantially reduce the number of tests required to screen a population.
+74	One of the promising geroprotectors restoring the pineal melatonin synthesis is the AEDG (Ala-Glu-Asp-Gly) peptide.
+75	AEDG peptide increases in 1,7 times the 6-sulfatoxymelatonin (6-SOMT) excretion in the urine of middle-aged people.
+76	Moreover, AEDG peptide normalized circadian Clock and Csnk1e genes hyper expression in leukocytes in 1,9-2,1 times and increases the Cry2 gene hypo expression in peripheral blood lymphocytes in 2 times in people with reduced melatonin-producing epiphysis function.
+77	The geroprotective effect of the AEDG peptide is based on its ability to restore the epiphysis melatonin-producing function by means regulation of human circadian genes expression.
+78	The study convincingly showed the presence of negative trends in the provision of medical dental organizations with material supplies.
+79	The real amount of expenses for updating inventory in 1 working day for 1 doctor in the profile of dentistry and dental hygienist should correspond to 2067.16 rubles, which is 3.49 times higher than the allocated financial resources.
+80	Presented in the article is a prospective study of endovascular embolization of ovarian veins in female patients suffering from primary pelvic varicose veins, with the assessment of the immediate and remote results, as well as a 1-year follow up.
+81	In the remote period, one patient due to recurrent relapses underwent repeat embolization followed by retroperitoneal resection of the ovarian vein.
+82	The findings of the clinical methods of examination demonstrated a decrease in the intensity of manifestations of pelvic varicose veins according to the pelvic venous clinical severity score and visual analogue scale, as well as improvement of the women's quality of life.
+83	Endovascular occlusion of ovarian veins is a highly effective, minimally invasive, and safe method of treatment of female patients with incompetent ovarian veins.
+84	The technical success of endovascular occlusion of ovarian veins amounted to 100%.
+85	In this case, kinesitherapy technologies are of leading importance: massotherapy, therapeutic exercises, reflex kinesitherapy according to V. Vojta; fitball gymnastics, method of fine finger training, dry floatation, etc. Along with physical rehabilitation methods, physiotherapy methods are actively used, which makes it possible to increase the effectiveness of treatment.
+86	Intended for use by non-specialist personnel working at community level, the system includes five signs, each of which can be present or absent in any eye: (i) trachomatous trichiasis; (ii) corneal opacity; (iii) trachomatous inflammation-follicular; (iv) trachomatous inflammation-intense; and (v) trachomatous scarring.
+87	Incorporating factor for achieving a strategic goal for the system CHI the results of analysis of practice-oriented factors of the potential of specialist doctors dentistry meets up 3.88 points, and the objective possibility of implementation of the CHI in the field of dentistry is 77.6 per cent.
+88	To determine the association between having government health insurance and the timeliness and outcome of care, and catastrophic health expenditure in injured patients requiring surgery at a tertiary hospital in Ghana.
+89	We defined catastrophic health expenditure as ≥ 10% of the ratio of patients' out-of-pocket payments to household annual income.
+90	Of 1396 patients included in our study, 834 (60%) were insured through the national health insurance scheme.
+91	To analyze the images obtained during pre-surgical neuroimaging in patients with gangliomas for the presence of specific signs and verification of the neoplastic process.
+92	In all 20 cases, gangliogliomas were verified, including 1 anaplastic, 1 infantile desmoplastic, and another patient had histological samples showing signs of a composite tumor.
+93	The results of presurgical MRI (3.0, 1.5 Tesla) of 20 patients with gangliomas were analyzed to identify specific signs of a neuronal-glial tumor and verify the neoplastic process based on the results obtained and a review of the literature.
+94	To establish significant associations between hypertension and the presence and severity of common oral diseases in adolescents.
+95	(77% vs 32 (49%),  Results suggest that hypertension in adolescents is associated with poorer oral health.
+96	We identified 28 countries with imported cases of COVID-19 as at 26 February 2020.
+97	We extracted passenger volume data for the entire global airline network, as well as the dates of the implementation of travel restrictions and the observation of the first case of coronavirus disease (COVID-19) in each country or territory, from publicly available sources.
+98	Our analysis of relative change in risk indicated that strategies of reducing global passenger volume and imposing travel restrictions at a further 10 hub airports would be equally effective in reducing the risk of importation of SARS-CoV-2; however, this reduction is very limited with a close-to-zero median relative change in risk.
+99	We modelled the risk of SARS-CoV-2 importation by estimating survival probability, expressing median time of importation as a function of effective distance.
+100	We aimed to measure CIMT in manifested atherosclerotic disease and find a relation to present risk factors.

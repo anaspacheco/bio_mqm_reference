@@ -1,0 +1,100 @@
+1	Thoraxschmerzen sind ein häufiges Symptom, mit dem sich Patienten in der hausärztlichen Praxis vorstellen.
+2	Patienten mit akuten Brustschmerzen stellen eine diagnostische Herausforderung für den niedergelassenen Arzt dar, weil ein breites Spektrum von Diagnosen infrage kommt, vom lebensbedrohlichen akuten Myokardinfarkt und der Lungenarterienembolie bis hin zu wesentlich häufigeren Ursachen, wie einer harmlosen muskulären Verspannung aus der Gruppe der sogenannten Brustwandsyndrome oder gastrointestinalen Störungen, beispielsweise einer Refluxkrankheit.
+3	Die klinische Evaluation von Patienten mit akuten Brustschmerzen folgt unabhängig vom Ort der Untersuchung dem Prinzip einer gründlichen klinischen Einschätzung durch den Arzt mit körperlicher Untersuchung und Anamnese.
+4	Darauf folgen weitere technische Untersuchungen wie ein 12-Kanal-Elektrokardiogramm und eine gezielte Labordiagnostik mit Point-of-care-Tests (unter anderem Troponin und D‑Dimere).
+5	Der prognostische Wert ist insbesondere bei serieller Bestimmung der NP hoch, sodass der klinische Einsatz in internationalen HI-Leitlinien mit höchster Evidenz und Empfehlung weiter in den Vordergrund gerückt ist.
+6	Das Konzept der sequenziellen NP-Messungen dient der Erfassung der Natrium- und Wasserüberladung zu klinisch definierten Zeitpunkten.
+7	Gegenstand aktueller Studien ist es, spezifische Tumorsignaturen, die während der HNSCC-Pathogenese wirksam sind, zu finden und die prognostische Relevanz zu evaluieren.
+8	Die Stimulation des Nervus hypoglossus (HNS) zur Behandlung der obstruktiven Schlafapnoe (OSA) hat seit der ersten Stellungnahme der Arbeitsgemeinschaft Schlafmedizin der Deutschen Gesellschaft für Hals-Nasen-Ohren-Heilkunde, Kopf- und Hals-Chirurgie (DGHNO) einen festen Stellenwert erhalten.
+9	Die vorhandenen 3 Systeme unterscheiden sich in der technischen Ausgestaltung des ähnlichen Grundprinzips.
+10	Für die unilaterale atmungsgesteuerte HNS existieren hier mehrere Vergleichsstudien, Registeranalysen mit 4-stelligen Patientenzahlen und mehrjährigen Nachsorgeergebnissen.
+11	Die kontinuierliche HNS verzichtet auf die Atmungserkennung, und im Gegensatz zum atmungsgesteuerten HNS ist eine Schlafendoskopie zur Indikationsstellung nicht notwendig.
+12	Die bilaterale kontinuierliche HNS ist als einziges Verfahren teilimplantierbar; hierzu liegen erste Machbarkeitsstudien vor.
+13	Wesentlich für die Indikation ist die mit schlafmedizinischer Expertise beurteilte Non-Adhärenz der Überdrucktherapie bei einer mindestens mittelgradigen OSA in individueller Abwägung von weiteren Therapieoptionen.
+14	Die implantierende Klinik steht im Mittelpunkt der interdisziplinären Therapieverantwortung und ist bei Therapieproblemen Hauptansprechpartner.
+15	Die Nachsorge der HNS-versorgten Patienten kann sehr gut sektoren- und fachdisziplinübergreifend erfolgen, wobei Mindestangaben zur Behandlungswirkung und Nutzung dokumentiert werden sollten.
+16	Die virtuelle Tagung widmete sich damit der bedeutenden und bisweilen weniger beachteten Herausforderung, die Brücke von der Laborbank in die Anwendung zu schlagen und Erfolg versprechende Ergebnisse aus universitären Forschungsprojekten gemeinsam mit der pharmazeutischen und medizintechnischen Industrie umzusetzen.
+17	Dabei wurden verschiedene relevante Fragen und Problemstellungen definiert und diese sowohl aus der Perspektive von Projektleitern aus Kliniken und Laboren als auch von Managern der pharmazeutischen Industrie und aus dem Bereich des Patentrechts mit einem ebenso interdisziplinären Teilnehmerkreis aus Urologie, Pathologie und Naturwissenschaften erörtert.
+18	ZIEL DIESER STUDIE: war die Untersuchung von epidemiologischen Aspekten mütterlicher Immunisierung gegen fetale Erythrozytenantigene(AB0, Rhesus, Lewis, Kell, Duffy und andere) und die Feststellung von häufigsten Ursachen der hämolytischen Erkrankung des Neugeborenen (MHN) in der Region der West-Herzegowina.
+19	Obwohl es zu während dieser 20-jährigen Studie zu einem bedeutenden Fortschritt bei der Vorbeugung der Immunisierung und der proaktiven MHN-Behandlung kam, erfordert es weiterhin Vorsichtsmaßnahmen und die Aktivitäten der Gynäkologen und Neonatologen.
+20	Als Pathomechanismus gilt eine exzentrische Belastung unter PM-Anspannung (Sturz auf den ausgestreckten Arm, Verletzung während des Bodenkampfes oder Boxens, aber v. a. während Abwärtsbewegungen beim Bankdrücken).
+21	Die Ruptursequenz startet am Ansatz, ausgehend von superior nach inferior, beginnend mit den inferiorsten Muskelsegmenten, gefolgt von Pars sternocostalis (PS) und Pars clavicularis.
+22	Neben klinischen Zeichen und Sonographie hat sich die MRT als diagnostischer Goldstandard etabliert.
+23	Die Indikation zur operativen Versorgung besteht bei fast allen lateralen PM-Sehnen-Rupturen mit relevantem Kraftdefizit.
+24	Die konservative Therapie betrifft ausschließlich Patienten, die ursprungsnahe, muskuläre Verletzungen aufweisen, sowie kleinere Teilrisse.
+25	Ziel der operativen Therapie ist die anatomische Rekonstruktion der PM-Einheit mit Wiederherstellung der ursprünglichen Spannungsverhältnisse, um die optimale Kraftübertragung zu ermöglichen.
+26	Latissimus-dorsi(LD)- und Teres-major(TM)-Sehnenrupturen sind selten, können aber bei Hochleistungssportlern zu deutlichen Beeinträchtigungen führen.
+27	Die thermische Ablation der Stammvarikose hat sich zu einem Standardverfahren in der Behandlung des Krampfaderleidens entwickelt.
+28	Der klinische Erfolg der endovenös-thermischen Verfahren ist vergleichbar mit der Stripping-Operation, ein signifikanter Unterschied zwischen diesen Gruppen konnte in Langzeitanalysen nicht nachgewiesen werden.
+29	Lediglich in der Genese der mit Duplexultraschall-detektierten Krossenrezidive gibt es einen Unterschied: Eine Neoangiogenese tritt nach Stripping-Operation auf, ein Rezidiv über eine belassene V. saphena accessoria anterior vorwiegend nach endovenöser Ablation der Stammvene.
+30	Die klassische Versorgung mittels Drahtzuggurtung weist einige Komplikationen auf.
+31	(Querfraktur 52 %, Mehrfragmentfrakturen 40 %). Bei Mehrfragmentfrakturen entscheiden sich 30 % der Operateure für eine winkelstabile Plattenosteosynthese.
+32	Bei Beteiligung des kaudalen Pols dient als zusätzliche Sicherung die McLaughlin-Schlinge
+33	Nach wie vor wird die klassische Zuggurtungsosteosynthese als Verfahren der Wahl genutzt.
+34	Zusätzlich wurde zur Bewertung der Lebensqualität der Katzen ein klinischer Summenscore erfasst.
+35	Die Ergebnisse deuten darauf hin, dass eine zweimal wöchentliche Therapie mit SUC effektiver sein könnte als eine Dosierung einmal pro Woche.
+36	Hintergrund: Es wurde die Multicomponent-Multitarget-Therapie SUC (Solidago compositum ad us. vet., Ubichinon compositum und Coenzym compositum, Heel GmbH, Baden-Baden, Deutschland) mit dem bekannten Angiotensin-Converting-Enzym-Inhibitor (ACEI) Benazepril in einer prospektiven, nichtrandomisierten, zweiarmigen Kohortenstudie an Katzen mit chronischer Nierenerkrankung (CNE) untersucht.
+37	Dreiunddreißig Katzen wurden mit SUC therapiert und 35 Katzen erhielten Benazepril.
+38	Das Ansprechen auf die Therapie wurde definiert als ein verbessertes bzw. ein stabiles Serumkreatinin am Ende der Studie im Vergleich zum Ausgangswert.
+39	Zwischen Februar und Juli 2019 wurden 4 Patienten mit Verbrennungen durch explodierte E-Zigaretten im Zentrum für Schwerbrandverletzte im Sana Klinikum Offenbach am Main behandelt.
+40	Die Ursache war bei allen Patienten ein sog.
+41	„thermal runaway“ (sehr rasche Entladung des Akkumulators).
+42	Die Ursache, das Ausmaß der Verletzung sowie deren Behandlung werden im Folgenden dargestellt.
+43	Die verbrannte Körperoberfläche betrug durchschnittlich 3 (0,5–4,5) % vKOF und betraf die Körperregionen, die bei den Benutzern typischerweise in unmittelbarem Kontakt mit der E-Zigarette sind: Oberschenkel, Genital und Hände.
+44	Auch die Löschung von Bränden durch E-Zigaretten erfordert spezielle Maßnahmen.
+45	Ein Patient entließ sich nach Erstversorgung gegen ärztlichen Rat.
+46	Der Alkoholkonsum wurde durch Ethylglukuronid(uETG)-Werte im Urin, das Ess- und Trinkverhalten durch einen Lebensmittelfrequenz-Fragebogen verifiziert, und die FGF21-Plasmaspiegel wurden mittels ELISA bei 96 Personen bestimmt (ALC n = 41; NALC n = 34; gesund n = 21).
+47	HINTERGRUND: Speicheldrüsenkarzinome („salivary gland carcinomas“, SGC) sind seltene Tumoren, die aufgrund ihrer histologischen Vielfalt und den in Abhängigkeit vom Subtyp unterschiedlichen Krankheitsverläufen eine Herausforderung für Diagnostik und Therapie darstellen.
+48	Ein umfassenderes Verständnis der relevanten molekularen Veränderungen und immunologischen Prozesse des Tumors sowie des umgebenden Stromas könnte dazu beitragen, die therapeutische Effizienz – beispielsweise durch eine adjuvante Immunmodulation – zu verbessern.
+49	HINTERGRUND: Speicheldrüsenkarzinome („salivary gland carcinomas“, SGC) sind seltene Tumoren, die aufgrund ihrer histologischen Vielfalt und den in Abhängigkeit vom Subtyp unterschiedlichen Krankheitsverläufen eine Herausforderung für Diagnostik und Therapie darstellen.
+50	Bei einem Drittel der SGC wurde eine Expression des Oberflächenzellrezeptors LAG3 („lymphocyte activation gene 3“) auf tumorinfiltrierenden Lymphozyten beobachtet.
+51	LAG3 inhibiert – ähnlich wie CTLA‑4 („cytotoxic T‑lymphocyte antigen 4“) und PD‑1 („programmed cell death 1 protein“) – die zelluläre Proliferation, Aktivierung und Homöostase von antitumoral wirksamen T‑Zellen.
+52	Ein umfassenderes Verständnis der relevanten molekularen Veränderungen und immunologischen Prozesse des Tumors sowie des umgebenden Stromas könnte dazu beitragen, die therapeutische Effizienz – beispielsweise durch eine adjuvante Immunmodulation – zu verbessern.
+53	B. die Thrombelastometrie.
+54	Der Anteil sozialversicherungspflichtig beschäftigter Rehabilitanden in der IG war um rund 11 Prozentpunkte höher als in der KG (ARR=0,11; 95% KI: 0,02–0,20; p=0,020).
+55	Primäres Zielkriterium war die Rate sozialversicherungspflichtiger Beschäftigung ein Jahr nach Rehabilitationsende.
+56	Zehn private nicht-saisonal atopische Hunde , die nur mild betroffen waren.
+57	Der Spray wurde 28 Tage lang alle 24 h auf dem Ventrum aufgetragen.
+58	Ein niedrigerer Wert wurde am D28 (P = 0,02) an den Ohren festgestellt.
+59	Es sind zukünftige, randomisierte, kontrollierte Studien nötig, um diese Ergebnisse zu bestätigen und die Auswirkungen auf die kutane Immunität und die Mikroflora atopischer Hunde zu bestätigen.
+60	Die Primäre Ciliäre Dyskinesie (PCD, MIM 242650) ist eine seltene hereditäre Multisystemerkrankung mit klinisch heterogenem Phänotyp.
+61	Um neben der ersten Medikamentenstudie mehr evidenzbasiertes Wissen zu generieren, werden weitere Projekte etabliert, u. a. ein internationales PCD-Register.
+62	Leitsymptom ist eine chronische Sekretretention der oberen und unteren Atemwege, welche durch die Dysfunktion motiler respiratorischer Zilien entsteht.
+63	Bislang gibt es kaum evidenzbasierte Therapieempfehlungen, da randomisierte Langzeitstudien zur Behandlung der PCD fehlten.
+64	Diese Arbeit bietet eine Zusammenfassung aktuell eingesetzter Behandlungsverfahren, die überwiegend auf persönlichen Erfahrungen und Expertenmeinungen beruhen oder von anderen Atemwegserkrankungen wie der Cystischen Fibrose (CF), COPD oder Bronchiektasen-Erkrankung abgeleitet werden.
+65	Im vorliegenden Artikel wird auf die Rolle von Alkohol in unserer Gesellschaft sowie auf dessen Bedeutung für Jugendliche eingegangen.
+66	Die Anzahl der metastasierten LN-Stationen und die Anzahl der metastasierten LNs sind bessere prognostische Faktoren als die derzeit verwendete nodale Klassifikation in NSCLC.
+67	Wir haben 3 verschiedene Schichten für die LN-Zustandsbewertung durchgeführt: pN-Kategorie (pN0, pN1 und pN2); sN-Kategorie (sN0, sN1; 1. Station der Metastase, sN2; die 2. und 3. Station der Metastasen und sN3; ≥ 4. Station der Metastasen); die nN-Kategorie (nN0, nN1; 3 LNs Metastase, nN2; Metastasen in 4 – 6 LNs und nN3; Metastasen in ≥ 7 LNs).
+68	Die 5-Jahres-Überlebensrate für die Kategorien N1, N2 und N3 betrug 54,1%, 42,4% und 16,1% nach sN und 51,4%, 36,1% und 7,9% nach nN (p < 0,0001).
+69	Die Anzahl der metastasierten LN-Stationen und die Anzahl der metastasierten LNs sind bessere prognostische Faktoren als die derzeit verwendete nodale Klassifikation in NSCLC.
+70	Die Gefahrenverhältnisse gegenüber N0 für N1, N2 und N3 waren für sN und nN signifikanter als für pN (1,597, 2,176 und 3,883 für sN; 1,645, 2,658 und 4,118 für nN bzw. 1,576, 3,222 für pN).
+71	Bei der Einteilung der Unterkategorien von sN und nN in den pN1- und pN2-Subgruppen verloren die anatomische Lage der LN-Beteiligung mit zunehmender Tumorbelastung und Tumorausbreitung an Bedeutung.
+72	Die Anzahl der metastasierten LN-Stationen und die Anzahl der metastasierten LNs sind bessere prognostische Faktoren als die derzeit verwendete nodale Klassifikation in NSCLC.
+73	Neben einer Intensivierung für Risikogruppen könnte eine niedrigschwellige Form für Personen mit moderaten Beeinträchtigungen sinnvoll sein.
+74	Die Machbarkeit einer berufsbegleitenden Rehabilitation (BbR) wurde in einer Studie untersucht.
+75	Neben dem Antragsverfahren wurden Versicherte über das Netzwerk der Reha-Einrichtungen sowie den Firmenservice der Deutschen Rentenversicherung rekrutiert.
+76	Zielgruppe waren arbeitsfähige, erwerbstätige Versicherte, die wegen Rückenschmerzen eine medizinische Rehabilitation benötigen.
+77	Die Machbarkeit einer berufsbegleitenden Rehabilitation (BbR) wurde in einer Studie untersucht.
+78	Es wurden 7 Gruppen mit insgesamt 56 Teilnehmenden in 2 Einrichtungen realisiert.
+79	Der typische BbR-Teilnehmende war weiblich, verheiratet, ohne Kinder, 48 Jahre alt und in Vollzeit bei mittelgroßen Unternehmen ohne Schichtdienst tätig.
+80	Die Machbarkeit einer berufsbegleitenden Rehabilitation (BbR) wurde in einer Studie untersucht.
+81	Prä-Post-Vergleiche bei BbR-Teilnehmenden zeigten mittlere bis starke Unterschiede in der Bewertung der allgemeinen Gesundheit, der Schmerzen, der Funktionsfähigkeit und der Arbeitsfähigkeit.
+82	Die Machbarkeit einer berufsbegleitenden Rehabilitation (BbR) wurde in einer Studie untersucht.
+83	Ab einem BMI ≥ 40 kg/m² soll die metabolische Operation sogar als mögliche Therapieoption auch unabhängig von Parametern der glykämischen Kontrolle oder der medikamentösen Diabetestherapie empfohlen werden.
+84	Die nichtalkoholische Fettlebererkrankung (NAFLD) ist eine der häufigsten Lebererkrankungen.
+85	Bei Vorliegen einer fortgeschrittener Fibrose und Zirrhose steigen die leberspezifische und die Gesamtmortalität an.
+86	Die nichtalkoholische Fettlebererkrankung (NAFLD) ist eine der häufigsten Lebererkrankungen.
+87	Die aktuelle Übersicht fasst neue Entwicklungen der nichtinvasiven Leberdiagnostik zusammen.
+88	Ein akutes Nierenversagen im Nachgang einer intravaskulären Kontrastmittelgabe hat für betroffene Patienten im Langzeitverlauf ein erhöhtes Dialyse- und Mortalitätsrisiko.
+89	Die intravaskuläre Applikation jodhaltiger Kontrastmittel kann, trotz kontinuierlicher Verbesserung ihrer pharmakologischen Eigenschaften, systemische bzw. hämodynamische Nebenwirkungen haben.
+90	In der vorliegenden Übersicht werden die gültigen Empfehlungen zur intravenösen Prophylaxe in diesem Kontext zusammengefasst und ein 2-stufiger Praxisleitfaden auf Basis der letzten Leitlinienempfehlungen vorgestellt.
+91	Jüngere Forschungsergebnisse haben zu einer weitreichenden Anpassung der klinischen Leitlinienempfehlungen geführt: 90 % der bis dato als Hochrisiko für kontrastmittelinduzierte Nephropathie eingestuften Patienten gehören nicht länger in diese Risikokategorie, eine diesbezügliche Prophylaxe vor Kontrastmittelgabe wird nicht mehr empfohlen.
+92	Dies betrifft insbesondere Patienten mit chronischer Niereninsuffizienz im Stadium CKD 4 und 5.
+93	Ein 2-stufiger Screening-Ansatz bietet Hilfestellung für die praktische Implementierung in der Klinik.
+94	· Jüngere Publikationen haben zu einer Anpassung der gegenwärtigen Leitlinienempfehlungen beigetragen..
+95	In der vorliegenden Deutschen Register-Kohorte wurde bei Patienten einschließlich solcher mit Zirrhose und vorangegangener Dekompensation bei einer Therapie mit VOX/VEL/SOF über 12 Wochen hohe SVR-Raten unabhängig von der Schwere der Erkrankung und vorheriger DAA-Therapien erreicht.
+96	Im Rahmen einer transkonjunktivalen, nahtlosen Pars-plana-Vitrektomie wird mittels subretinaler BSS(„balanced salt solution“)-Injektion am hinteren Pol die Makularegion eleviert und anschließend das Foramen während des Flüssigkeit-Luft-Austausches verschlossen, gefolgt von einer Gas- oder Öltamponade.
+97	Bei COVID-19-Infektion liegt eine systemische virale Reaktion gefolgt von einer entzündlichen Krankheitsphase vor.
+98	COVID-19 betrifft nicht nur das Lungenparenchym durch die ACE2-Rezeptoren, sondern kann auch im Gesamtkörper eine generalisierte endotheliale Schädigung und Entzündung im Sinne einer sog.
+99	Eine Endotheliitis kann eine Vasokonstriktion mit konsekutiver Organischämie, Entzündung und Gewebeödem sowie thrombotische Mikrozirkulationsstörung zur Folge haben.
+100	Patienten mit vorbestehender kardiovaskulärer Dysfunktion (Hypertonus, Diabetes mellitus, Übergewicht und weitere kardiovaskuläre Erkrankungen, männliches Geschlecht) haben ein erhöhtes Risiko für schwere Verläufe einer COVID-19-Infektion.

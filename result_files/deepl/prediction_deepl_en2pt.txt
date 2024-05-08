@@ -1,0 +1,100 @@
+1	De julho de 2010 a agosto de 2014, um total de 5076 indivíduos foram incluídos em 48 centros, 91% dos 4975 pacientes elegíveis foram acompanhados em centros de cardiologia e 68,6% estavam em prevenção secundária.
+2	Para avaliar os fatores que afetam a utilização, adotamos uma análise de regressão multivariada (Modelo de Distribuição Binomial Negativa).
+3	Para quantificar a desigualdade/iniquidade relacionada com o rendimento, calculamos o índice de concentração.
+4	A melhor autoavaliação da saúde e a ausência de limitações nas atividades diárias diminuem a utilização; sofrer de doenças crônicas aumenta a utilização.
+5	Viver no Algarve ou na Madeira, ou beneficiar apenas da cobertura do Serviço Nacional de Saúde, afeta negativamente a utilização.
+6	A possibilidade de equidade nas consultas com o Médico de Família não pode ser ignorada.
+7	Portugal registrou uma evolução favorável em termos de equidade na utilização dos cuidados de saúde, mas subsistem ainda vários desafios.
+8	Utilizamos dados do Inquérito Nacional de Saúde de 2014.
+9	A utilização dos serviços de saúde é medida pelo número de consultas com um médico de família ou com um médico de especialidade em contexto hospitalar.
+10	A iniquidade observada em relação ao rendimento parece refletir as desigualdades noutras variáveis não necessárias.
+11	Os dados sobre o tratamento e prognóstico de pacientes com enfarte do miocárdio com elevação do segmento ST (STEMI) e doença multivaso são limitados no Brasil, mostrando que as estratégias de revascularização disponíveis devem ser investigadas.
+12	Foi realizado um estudo de coorte prospectivo em dois centros médicos no sul do Brasil, com seguimento de 1 ano após o procedimento índice.
+13	A média de idades médias foi de 62±12 anos, sendo que 61 (71,8%) eram do sexo masculino.
+14	Os dados sobre o tratamento e prognóstico de pacientes com enfarte do miocárdio com elevação do segmento ST (STEMI) e doença multivaso são limitados no Brasil, mostrando que as estratégias de revascularização disponíveis devem ser investigadas.
+15	Os dados de registro de dois centros no sul do Brasil demonstram que a estratégia de revascularização completa está associada a uma redução significativa nos resultados primário e secundário, num seguimento de 1 ano, comparativamente com a estratégia de revascularização incompleta (Arq Bras Cardiol. 2020; 115(2):229-237).
+16	Depois de uma década passando por claras dificuldades, o Serviço Nacional de Saúde português precisa de um investimento público significativo para o seu desenvolvimento.
+17	Analisar o perfil dos indivíduos que acessam o site em relação às informações sobre o pé torto congênito (PTC) e os primeiros dez anos de implantação do método Ponseti no Brasil.
+18	O objetivo deste estudo foi descrever as médias estimadas para peso, altura e índice de massa corporal (IMC) de acordo com dois métodos de imputação, utilizando dados do Vigitel (Sistema de Vigilância de Fatores de Risco e Proteção para Doenças Crônicas Não Transmissíveis por meio de Entrevista Telefónica).
+19	Tratou-se de um estudo transversal que utilizou dados secundários do inquérito Vigitel entre 2006 e 2017.
+20	Os dois métodos de imputação utilizados no estudo foram o método hot-deck e a Média Preditiva de Correspondência (PMM).
+21	Tratou-se de um estudo transversal que utilizou dados secundários do inquérito Vigitel entre 2006 e 2017.
+22	Os dois métodos de imputação utilizados no estudo foram o método hot-deck e a Média Preditiva de Correspondência (PMM).
+23	Os resultados com os dados do Vigitel sugerem a aplicabilidade da PMM ao conjunto de inquéritos de saúde.
+24	A previsão linear é utilizada como uma medida de distância entre o valor em falta e os possíveis dadores, criando assim o espaço virtual com os casos candidatos para produzir o valor para imputação.
+25	A busca espontânea para o teste anti-HIV só ocorre por meio de situações e sinais associados à possível infecção.
+26	Os homens e as mulheres com idade superior a 60 anos (60-79 anos) foram divididos em três grupos: controle, DM sem e com NDP.
+27	(O presente estudo demonstrou que as pessoas que sofrem de neuropatia apresentaram um pior desempenho físico e déficit do equilíbrio postural, limitações sensoriais, afetando as tarefas diárias e, consequentemente, diminuindo a qualidade de vida nos idosos brasileiros.
+28	O grupo NDP apresentou diferenças significativas em relação aos demais grupos, com um pior desempenho na qualidade de vida em relação ao grupo DM2 sem NDP em: funcionamento sensorial
+29	Estimar as taxas de notificação de casos de coronavírus 2019 (COVID-19) para o Brasil como um todo e os estados.
+30	Estimamos o número real de casos de COVID-19 usando o número relatado de mortes no Brasil e em cada estado e a taxa de letalidade esperada da Organização Mundial da Saúde.
+31	Estimar as taxas de notificação de casos de coronavírus 2019 (COVID-19) para o Brasil como um todo e os estados.
+32	Neste estudo experimental original, foi testada uma nova compressão axial II de materiais ósseos.
+33	Para relatar os resultados de um cuidado em equipe de longo prazo para pacientes hipertensos no mundo real, realizamos este estudo.
+34	Foram incluídos 1.548 pacientes, com tempo médio de seguimento de 7,6 ± 7,1 anos.
+35	Foco em pacientes com diabetes, com menos de 60 anos e homens deve ser dado para melhorar ainda mais esses resultados.
+36	Uma alta proporção das causas de morte por DCV correspondeu a códigos lixo, classificados de acordo com o GBD 2017, chegando a 42% em 2017.
+37	As condições que afetam o tendão de Aquiles permanecem extremamente prevalentes na prática clínica.
+38	A pesquisa de informações sobre essas doenças nas bases de dados científicos nacionais e internacionais é geralmente dificultada na utilização de ferramentas de pesquisa, exigindo a utilização de um epônimo na estratégia.
+39	Aquiles, fazendo referência ao herói da mitologia grega, é frequentemente utilizado por vários autores nas publicações científicas, apesar da nova terminologia anatômica.
+40	O transplante alogênico de células estaminais é um procedimento estabelecido para um vasto leque de doenças do sistema hematopoiético.
+41	Analisamos as alterações nos doentes, na fonte de células, no transplante e no resultado entre 682 doentes consecutivos que receberam o seu primeiro transplante entre 1987 e 2016.
+42	Comparamos a sobrevida global, a sobrevida livre de progressão, a incidência de mortalidade sem recidiva e a recidiva em coortes de 10 anos ao longo das três décadas do estudo.
+43	O nosso programa de transplantes teve início em 1987 e, desde então, foram feitos avanços nos cuidados prestados aos pacientes submetidos a transplantes.
+44	O transplante alogênico de células estaminais é um procedimento estabelecido para um vasto leque de doenças do sistema hematopoiético.
+45	No presente estudo, avaliamos a forma como essas alterações afetaram a nossa prática ao longo de 30 anos de atividade e comparamos os resultados com os publicados na literatura.
+46	A idade média dos pacientes transplantados, a utilização de sangue periférico e os dadores sem grau de parentesco aumentaram muito significativamente.
+47	Realizamos um estudo para avaliar se as alterações implementadas ao longo do tempo melhoraram os resultados do transplante.
+48	O edoxabano e a enoxaparina sódica em doses baixas têm sido objeto de uma comparação retrospectiva implementada por meio da técnica de propensão de resultados, com vistas a atenuar os efeitos das diferenças nas características clínicas básicas de dois coortes e minimizar o risco de enviesamento.
+49	Posteriormente, recorrendo ao modelo de risco proporcional de Cox, foi avaliada a associação de cada tipo de terapia com o risco composto de morte por todas as causas, acidente vascular cerebral/acidente isquêmico transitório, internações e eventos hemorrágicos graves.
+50	A terapêutica com enoxaparina e a cirrose hepática como causa da trombocitopenia foram associadas a um risco acrescido do desfecho composto (enoxaparina: hazard ratio (HR): 3,31; IC 95%: 1,54 a 7,13; p = 0,0023; cirrose hepática, HR: 1,04; IC 95%: 1,002 a 1,089; p = 0,0410).
+51	Com base nesta análise retrospectiva, o edoxabano em doses baixas parece ser uma ferramenta farmacológica eficaz e segura para a profilaxia de eventos cardioembólicos em pacientes com FA e trombocitopenia.
+52	Foram analisados 93 registros médicos de pacientes submetidos a fusão intersomática transforaminal entre janeiro de 2012 e julho de 2017, com pelo menos 1 ano de seguimento pós-operatório com registros médicos completos, contendo a ficha clínica e os exames radiológicos.
+53	Os "escores" clínicos, a função de barreira da pele e a avaliação do dono foram efetuados no dia (D)0, D14, D28 e D42.
+54	Foi observada uma redução no "escore" clínico total em cada momento temporal (D14, P = 0,03; D28, P = 0,04; D42, P = 0,001).
+55	Os "escores" clínicos, a função de barreira da pele e a avaliação do dono foram efetuados no dia (D)0, D14, D28 e D42.
+56	Foi observada uma redução no "escore" clínico total em cada momento temporal (D14, P = 0,03; D28, P = 0,04; D42, P = 0,001).
+57	Os donos relataram uma resposta boa a excelente e uma fácil administração.
+58	O presente ensaio discute as repercussões da pandemia de COVID-19 na relação entre o trabalho e a saúde, da perspetiva do risco e da vulnerabilidade dos trabalhadores.
+59	A pandemia representou uma crise humanitária, uma vez que tanto a doença quanto as medidas para a contenção levaram a efeitos socioeconômicos persistentes.
+60	O ensaio foi inicialmente elaborado com base na revisão da literatura sobre a interface entre a COVID-19 e saúde do trabalhador, realizada entre dezembro de 2019 e abril de 2020, nas bases de dados PubMed, BIREME, Biblioteca Cochrane, medRxiv e LitCovid, para além do recurso à literatura cinzenta.
+61	Embora a pandemia esteja ainda em evolução, espera-se que as desigualdades sociais se intensifiquem com a profunda recessão da economia, sendo que os trabalhadores devem ser o alvo prioritário de atenção no controle e disseminação da doença, para além de serem o eixo central para o planejamento das políticas públicas sociais e de proteção da saúde.
+62	O presente ensaio discute as repercussões da pandemia de COVID-19 na relação entre o trabalho e a saúde, da perspetiva do risco e da vulnerabilidade dos trabalhadores.
+63	As mulheres parecem estar mais suscetíveis ao estresse psicossocial do que os homens, sendo que o estresse está associado a piores resultados após um enfarte agudo do miocárdio (EAM).
+64	Os dados foram analisados com recurso ao SPSS Versão 24.0.
+65	Os efeitos de intervenções não farmacológicas, como restrição calórica e exercícios físicos, na saúde e prevenção de doenças cardiovasculares foram investigados em estudos clínicos e experimentais.
+66	Durante 12 semanas, os animais em controle e em ET foram alimentados diariamente com uma dieta comercial padrão ad libitum, enquanto os animais IF e ETI foram alimentados em dias alternados.
+67	Os resultados foram analisados pela ANOVA two-way e pelo teste de Student-Newman-Keuls.
+68	Após esse período, foram analisados a capacidade funcional, os parâmetros nutricionais e os níveis de glicose no sangue.
+69	Analisamos também a tendência da disseminação da COVID-19 para o interior do estado, considerando a distribuição percentual dos casos na capital, Recife, nos municípios da zona metropolitana do Grande Recife e no interior do estado, em conjuntos de três semanas, por meio da elaboração de mapas temáticos.
+70	O pico na curva epidêmica ocorreu na semana epidemiológica 21 (23 de maio), seguido de uma desaceleração no número de casos.
+71	Detetamos inicialmente a disseminação de casos do centro da cidade para a periferia da capital e zona metropolitana, seguida de uma rápida disseminação para o interior do estado.
+72	O artigo analisa as ações de prevenção e controle do excesso de peso e da obesidade desenvolvidas nos 92 municípios (condados) do estado do Rio de Janeiro, Brasil, com base nos princípios subjacentes à tipologia das políticas públicas desenvolvida por Lowi e à Linha de Cuidado para pessoas com Excesso de Peso e Obesidade, de acordo com as seguintes dimensões analíticas: ações programáticas de prevenção e controle da obesidade, caracterização de macropolíticas de acordo com a tipologia de Lowi e caracterização de macropolíticas de acordo com a Linha de Cuidado para pessoas com Excesso de Peso e Obesidade.
+73	O estudo faz parte de um projeto de investigação decorrido entre 2014 e 2018 que visava identificar as estratégias e os desafios na consolidação das ações planejadas na Linha de Cuidado para pessoas com Excesso de Peso e Obesidade, com base na análise de dados secundários e documentos governamentais, pesquisas nos sites oficiais dos municípios, entrevistas, grupos de foco e questionários online com profissionais de saúde e gestores.
+74	Mesmo com todas essas iniciativas, os municípios do estado do Rio de Janeiro enfrentam ainda desafios relativos a recursos humanos limitados e infraestruturas e equipamentos precários nas unidades de saúde.
+75	Identificar os principais desafios da família de uma criança com meningomielocele (MMC) e correlacionar a escala Zarit Burden Interview (ZBI) com a World Health Organization Quality of Life-BREF (WHOQOL - BREF).
+76	A persistência nas tarefas, um aspecto da motivação, foi correlacionada com o envolvimento nas atividades físicas (r=0,45, p<0,001) e sociais (r=0,28, p<0,05).
+77	Descrever a participação em atividades de lazer por parte de adolescentes com cardiopatias congênitas (CC) e identificar os fatores associados à intensidade da participação.
+78	Recorremos à regressão logística bivariada e multivariada para produzir índices de probabilidades brutos (OR) e ajustados (aOR).
+79	Em um universo de 2.361 indivíduos, 920 (38,9%) referiram ter praticado chemsex, que envolveu parceiros casuais em 95% dos casos.
+80	Em abril de 2020, foi realizado um inquérito online multicêntrico no Brasil e em Portugal, quando ambos os países se encontravam sob medidas de restrição sanitária devido à pandemia.
+81	Os SD foram avaliados com recurso à Escala de Depressão Geriátrica de Yesavage - versão abreviada (GDS-15).
+82	A hipercolesterolemia familiar (FH) é uma doença genética causada principalmente por um defeito no gene do receptor de LDL.
+83	Em síntese, este relatório permite uma melhor compreensão das bases moleculares da HF no Brasil, um país multirracial onde se espera uma população heterogênea.
+84	Encontramos reduções no número de consultas de cardiologia, testes ergométricos, Holter, monitoramentos ambulatoriais da pressão arterial, eletrocardiogramas e ecocardiogramas (90%, 84%, 94%, 92%, 94% e 81%, respectivamente).
+85	Ainda não temos informações sobre o impacto da pandemia da COVID-19 na atividade de assistência médica no Brasil.
+86	A implantação da válvula aórtica transcateter (TAVI) pode reduzir a mortalidade entre pacientes com estenose aórtica.
+87	O conhecimento da distribuição da pressão e do estresse de cisalhamento na parede da aorta pode ajudar a identificar regiões críticas, onde pode ocorrer o processo de remodelação da aorta.
+88	A presente análise fornece uma perspetiva de grande variação no comportamento do fluxo devido apenas a alterações no ângulo.
+89	A implantação da válvula aórtica transcateter (TAVI) pode reduzir a mortalidade entre pacientes com estenose aórtica.
+90	Pequenas variações do ângulo de inclinação podem modificar a natureza do fluxo, deslocando a posição dos vórtices e alterando a distribuição da pressão e a localização da tensão de cisalhamento elevada na parede arterial.
+91	A implantação da válvula aórtica transcateter (TAVI) pode reduzir a mortalidade entre pacientes com estenose aórtica.
+92	O estudo teve como objetivo comparar dois conceitos de ruralidade, um proposto pelo Instituto Brasileiro de Geografia e Estatística (IBGE) e outro pelo Banco Mundial, com vistas a determinar qual se adequa melhor à realidade do território, para além de analisar o perfil da mortalidade infantil nos municípios rurais (condados) do estado da Paraíba, Brasil, de acordo com o melhor critério para ruralidade.
+93	Os dados foram obtidos por meio do Sistema de Informação Sobre Mortalidade do Ministério da Saúde Brasileiro, entre 2007 e 2016, sendo que os indicadores municipais foram do IBGE.
+94	O perfil epidemiológico predominante da mortalidade infantil nos municípios rurais do estado da Paraíba foi o sexo masculino (57,4%), cor de pele melanodérmica (61,1%), idade entre 0 e 7 dias (52,4%), baixo peso à nascença (44%) e idade gestacional inferior a 37 semanas (43,2%).
+95	(7,13% [IC 95% 4,55; 9,70], Concluímos que essas ferramentas diferentes permitem diferenciar os pacientes RPD dos não RPD, o que pode contribuir para a decisão do médico sobre o momento ideal para regressar à prática esportiva.
+96	Proceder à revisão e meta-análise sistemática do desempenho dos pacientes que regrediram à prática desportiva (RPD) e não RPD em diferentes ferramentas de avaliação após a reconstrução do ligamento cruzado anterior (RLCA).
+97	De entre os 182 estudos pesquisados no PubMed, 11 apresentaram grupos RPD e não RPD que avaliaram, por meio de diferentes ferramentas, o desempenho de indivíduos jovens, praticantes de diferentes esportes.
+98	Para a coleta, tratamento e análise dos dados, foram utilizadas as ferramentas Service Availability and Readiness Assessment (SARA).
+99	A multimorbilidade foi definida como ≥ 2 condições crônicas com base numa lista de 15 doenças consideradas como condições de risco para desenvolver COVID-19 grave.
+100	Estima-se que 2,4 milhões de brasileiros se encontrem em situação de grave risco de saúde.

@@ -1,0 +1,100 @@
+1	Foi realizada revisão em artigos publicados nas bases MEDLINE, Scopus e LILACS entre os anos de 2008 e 2019.
+2	Dentre 2.686 estudos inicialmente levantados, 167 foram pré-selecionados para leitura, 24 selecionados e categorizados de acordo com a análise temática de conteúdo.
+3	Material e Métodos: As comorbilidades dos doentes com insuficiência cardíaca aguda foram, retrospetivamente, comparadas com um grupo controlo de doentes com insuficiência cardíaca crónica admitidos numa unidade de Medicina Interna no período de dois anos.
+4	A obesidade, a fibrilação auricular, a doença arterial periférica e a doença renal crónica foram identificadas como fatores de risco independentes.
+5	Conclusão: O comorbidoma é uma ferramenta útil para identificar comorbilidades associadas a maior risco de insuficiência cardíaca aguda.
+6	A identificação de doentes vulneráveis pode permitir a instituição de intervenções multidimensionais para minimizar hospitalizações futuras.
+7	Identificar o custo direto médio dos procedimentos realizados para o tratamento do evento adverso flebite em pacientes de uma Unidade de Internação Clínica e estimar o custo dos procedimentos realizados para o tratamento das flebites nesta unidade.
+8	Os dados foram analisados por meio de estatística descritiva.
+9	O Programa de Controle da Malária apresenta desempenho abaixo do preconizado, não atendendo ao padrão ouro estabelecido, podendo significar a manutenção ou a elevação dos casos de malária.
+10	Perfis visuoperceptuais de crianças usando o questionário Flemish de deficiência visual cerebral OBJETIVOS: Investigar a estrutura de fator do questionário Flemish de deficiência visual cerebral (DVC) com 46 itens, diferenciar os escores de fator de crianças com e sem DVC, e examinar o impacto de comorbidades nos escores de fator.
+11	MÉTODO: Os prontuários de 630 crianças (386 do sexo masculino, 244 do sexo feminino; idade mediana 77m; intervalo interquartil 63-98m;) que visitaram a clínica de DVC e o Centro para Desordens do Desenvolvimento nos Hospitais Universitários de Leuven de 2001 a 2018 foram sistematicamente revisados.
+12	RESULTADOS: Trezentas e quarenta e cinco crianças (179 com DVC [108 do sexo masculino, 71 do sexo feminino; idade mediana 74m; intervalo interquartil 61-93m] e 166 sem DVC [110 do sexo masculino, 56 do sexo feminino; idade mediana 88m; intervalo interquartil 70-107m]) foram incluídas.
+13	Uma análise exploratória de fator resultou em um modelo com 5 fatores (deficiências no processamento de objeto e face; (des)interesse visual; deficiências na visão de espaços abarrotados e distância; deficiências na movimentação no espaço; e comportamentos relacionados a ansiedade) biológica e clinicamente plausível, que reteve 35 itens e explicou 56% da variância total.
+14	INTERPRETAÇÃO: Uma estrutura com 5 fatores do questionário Flemish para DVC diferencia crianças com e sem DVC.
+15	Comorbidades devem ser consideradas quando se pesquisar a DVC.
+16	Este estudo teve como objetivo determinar os níveis séricos de proteína 3 contendo um domínio NACHT, porção C-terminal rica em repetições de leucina e de domínio pirina (NLRP3) e catelicidina LL-37, bem como investigar sua importância prognóstica em pneumonia adquirida na comunidade (PAC).
+17	Este estudo prospectivo incluiu 76 pacientes com PAC.
+18	Foram obtidos dados demográficos e características clínicas.
+19	Pacientes com PAC grave tendem a apresentar níveis séricos elevados de NLRP3 e níveis reduzidos de LL-37, o que pode ser utilizado como um potencial biomarcador prognóstico.
+20	Avaliar as relações entre índices aterogênicos e estenose de EVS.
+21	A significância foi estabelecida no nível p<0,05.
+22	Avaliar a eficácia, segurança e tolerabilidade do medicamento oromucosal nabiximols canabinóide como terapia adjunta para crianças com espasticidade devida a paralisia cerebral/lesão traumática do sistema nervoso central com resposta inadequada a tratamentos existentes.
+23	MÉTODO: Em geral, 72 pacientes (média [DP] idade 12a 4m [3a 1m], variação 8-18a) foram randomizados em uma taxa de 2:1 para receber nabiximols (n=47; 29 sexo masculino, 18 sexo feminino) ou placebo (n=25; 15 sexo masculino, 10 sexo feminino) por 12 semanas (12 sprays/dia máx. com base na resposta clínica/tolerabilidade).
+24	Não houve diferença significativa na espasticidade Segundo a ENP 0 a 10 entre os grupos nabiximols versus placebo após 12 semanas.
+25	O nosso objetivo é avaliar o valor prognóstico de diferentes comorbilidades no risco de desenvolvimento de insuficiência cardíaca aguda.
+26	Conclusão: O comorbidoma é uma ferramenta útil para identificar comorbilidades associadas a maior risco de insuficiência cardíaca aguda.
+27	A identificação de doentes vulneráveis pode permitir a instituição de intervenções multidimensionais para minimizar hospitalizações futuras.
+28	Não houve diferença significativa em relação à idade dos pacientes entre os grupos (p=0,081).
+29	Dentre os pacientes, 72,9% eram de sexo masculino; 542 pacientes foram operados sem CEC (18,7%).
+30	Das características pré-operatórias, pacientes com infarto agudo do miocárdio (IAM) prévio (p=0,005) e disfunção ventricular (p=0,031) foram operados com CEC; no entanto, pacientes de emergência ou em classe funcional New York Heart Association (NYHA) IV foram operados sem CEC (p<0,001).
+31	O grau de fluxo TIMI e a contagem quadro a quadro TIMI corrigida (CTFC) são métodos amplamente utilizados para avaliar o fluxo sanguíneo coronariano angiográfico.
+32	A medição do fluxo sanguíneo coronariano (FSC) na coronariografia (CAG) padrão despertou grande interesse recentemente, tentando combinar o conceito de CTFC com novos métodos para pós-angioplastia e avaliação da síndrome cardíaca X. Além disso, o fluxo coronariano lento é considerado um critério importante para a angina microvascular.
+33	Explorar uma nova abordagem de medição angiográfica quantitativa do FSC com base na detecção densitométrica de contraste na CAG offline, usando um software acessível para obter uma avaliação mais precisa e confiável do FSC.
+34	Trinta pacientes foram estudados e divididos em 2 grupos: fluxo sanguíneo coronariano normal (FN) e fluxo sanguíneo coronariano lento (FL), de acordo com a definição da CTFC.
+35	O MD foi aplicado à amostra do estudo para diferenciar entre FN e FL.
+36	O valor de referência normal do MD obtido para o fluxo sanguíneo coronariano foi de 9 [5–10] quadros.
+37	Os grupos FN vs. FL foi comparado e expresso como mediana [intervalo interquartil], para a artéria descendente anterior esquerda: 10 [7–11] vs. 21 [8–33]; p=0,016; artéria circunflexa: 9 [4–13] vs. 14 [11–30]; p=0,012 e artéria coronária direita: 5 [3–11] vs. 13 [8–26]; p=0,009.
+38	O MD mostrou a viabilidade de medir o fluxo sanguíneo coronariano com precisão, consistência e reprodutibilidade em um angiograma coronariano padrão, mostrando a capacidade adicional de diferenciar FN de FL em pacientes com dor precordial e artérias coronárias normais.
+39	Construir cenários e analisar o impacto das políticas de distanciamento social na propagação da COVID-19 e a necessidade de leitos de unidades de terapia intensiva (UTI).
+40	A ausência do distanciamento implicaria grave cenário, com pico de 6.214 (IIQ: 4.618 a 8.415) internações-UTI já na data provável de 14/7/2020. as projeções indicam alto impacto das medidas de distanciamento social e reforçam a aplicabilidade de indicadores públicos no monitoramento da COVID-19.
+41	Um desfecho crucial a ser considerado no momento dessa escolha é a necessidade de refazer a revascularização, uma vez que ela se torna muito mais frequente após a intervenção coronária percutânea (ICP) do que após a cirurgia de revascularização do miocárdio (CRM).
+42	Pretende-se, com este estudo, trazer reflexões acerca das preferências dos pacientes pelas estratégias de revascularização sob a perspectiva de pacientes que tiveram que refazer a revascularização.
+43	Selecionamos uma amostra de pacientes que haviam sido submetidos à ICP e hospitalizados para refazer a revascularização coronária e elicitamos suas preferências por nova ICP ou CRM.
+44	O modelo logístico condicional foi empregado para analisar as escolhas dos pacientes, utilizando-se o software R. Valores de p <0,05 foram considerados estatisticamente significativos.
+45	Os coeficientes de regressão foram estatisticamente significativos para o rótulo ICP, mortalidade a longo prazo da ICP, morte perioperatória da CRM, mortalidade a longo prazo da CRM e refazer a CRM.
+46	O rótulo ICP foi o parâmetro mais importante (p < 0,05).
+47	A maioria dos pacientes que enfrentam a necessidade de refazer a revascularização coronária rejeitam uma nova ICP, com base em níveis realistas de riscos e benefícios.
+48	Aqueles com “excesso de peso e percentual de gordura corporal elevado” registraram a menor média para HDL-colesterol (43,2mg/dL) em relação aos outros grupos; maior média para interleucina-6 (2,7pg/mL) em relação aos “eutróficos” e “excesso de peso e percentual de gordura corporal adequado”; e maiores medianas para triglicerídeos (114,0mg/dL) e proteína C reativa (0,14ng/mL) em relação aos “eutróficos” e “obesos de peso normal”.
+49	Os com “excesso de peso e percentual de gordura corporal adequado” apresentaram proteína C reativa igual aos com “excesso de peso e percentual de gordura corporal elevado”.
+50	A avaliação do estado nutricional pelo IMC é limitada, pois 6,8% dos adolescentes registraram percentual de gordura corporal elevado apesar do IMC normal, além disto, os “obesos de peso normal” apresentaram dois biomarcadores piores que os adolescentes com “excesso de peso e percentual de gordura corporal elevado”.
+51	Foram realizadas as comparações por análise de variância de fator único e pelo teste da diferença mínima significativa de Fisher, com p < 0,05 considerado significativo.
+52	destacar o tratamento cirúrgico das fraturas que envolvem a articulação interfalangiana do hálux, suas indicações atuais e as opções de tratamento.
+53	Estudo descritivo, com dados da Associação Brasileira de Transplantes de Órgãos.
+54	Destes, 17 (23,6%) no segundo trimestre.
+55	Os números de doadores e transplantes do Ceará apresentaram importante declínio nos três meses seguintes ao decreto da pandemia da COVID-19, especialmente os das modalidades de rim, coração e córneas.
+56	Analisar a relação da ansiedade com a compulsão alimentar e a qualidade do sono em adultos com sobrepeso ou obesidade.
+57	As amostras foram gravadas durante a produção de 9 estímulos de fala distintos: contagem de números e conjuntos de frase orais, sendo 1 constituído por consoantes de baixa pressão e 7 constituídos por consoantes de alta pressão.
+58	Pretendemos alertar para esta associação de intoxicações relativamente frequente e para a necessidade de tratamento empírico urgente.
+59	Visamos investigar se há alterações nos intervalos QT, QTc e Tpe e nas relações Tpe/QT e Tpe/QTc em pacientes com COVID-19.
+60	Verificou-se que a frequência cardíaca basal, a presença de hipertensão e diabetes, a contagem de leucócitos, o nitrogênio ureico no sangue, a creatinina, o potássio, o aspartato aminotransferase, a alanina aminotransferase, o NT-proBNP, a proteína C reativa de alta sensibilidade, o dímero-D, a TncI-as, o intervalo Tpe, a relação Tpe/QT e a relação Tpe/QTc aumentaram do grupo I para o grupo IV e foram significativamente mais altos em todos os pacientes do grupo IV (p < 0,05).
+61	Os intervalos QT e QTc eram semelhantes entre grupos.
+62	Os pacientes em pós-operatório (PO) de cirurgia de revascularização miocárdica (CRM) internados em unidade de terapia intensiva (UTI) apresentam risco de complicações que aumentam o tempo de permanência e a morbimortalidade.
+63	Analisar o desempenho de índices de gravidade na predição de complicações em pacientes no PO de CRM durante a permanência na UTI.
+64	Estudo transversal, com análise retrospectiva de prontuários eletrônicos de pacientes com idade ≥ 18 anos submetidos à CRM isolada e admitidos na UTI de um hospital cardiológico, em São Paulo, Brasil.
+65	Em comparação à diretriz da AHA/ACC, a diretriz brasileira classifica uma maior proporção dos pacientes em prevenção primária em categorias de risco mais alto e aumenta substancialmente a elegibilidade para estatina.
+66	Essas tensões e contradições também se expressam nos documentos de políticas que reconhecem que as práticas do setor privado comercial favorecem a obesidade, mas o consideram parceiro.
+67	O objetivo deste estudo foi validar a versão brasileira dos bancos de itens Distúrbio do Sono e Distúrbio da Vigília do Patient-Reported Outcomes Measurement Information System (PROMIS).
+68	Pode-se concluir que a versão para a língua portuguesa falada no Brasil dos bancos de itens Distúrbio do Sono e Distúrbio da Vigília do PROMIS demonstrou ser uma medida confiável, precisa e válida, com análises psicométricas robustas.
+69	Foram aplicados testes estatísticos (qui-quadrado e procedimento de Marascuilo), considerando-se como diferenças significantes quando os testes apresentaram p-valor <0,05.
+70	Observaram-se diferenças significantes estatisticamente entre as faixas etárias e a letalidade (p-valor <0,001); maior letalidade quanto maior a idade (procedimento de Marascuilo, significativo na comparação entre maiores de 60 anos com as demais faixas etárias); maior óbito no sexo masculino (letalidade de 2,7%); e maior letalidade entre as pessoas de cor preta (3,0%).
+71	Pesquisa de abordagem qualitativa, do tipo ação-participante, apoiada no Itinerário de Pesquisa de Paulo Freire, desenvolvida por Círculos de Cultura, constituída de três etapas: Investigação temática, Codificação e Descodificação e Desvelamento crítico.
+72	Emergiram dos Círculos de Cultura 20 temas geradores, seis deles considerados pelos participantes pertinentes às situações-limite: acúmulo de atividades, dificuldade de monitoramento e acompanhamento das crianças, trabalho centrado na produtividade, falta de capacitação, limitação de recursos humanos, dificuldade de acolhimento.
+73	Este estudo teve como objetivo determinar os níveis séricos de proteína 3 contendo um domínio NACHT, porção C-terminal rica em repetições de leucina e de domínio pirina (NLRP3) e catelicidina LL-37, bem como investigar sua importância prognóstica em pneumonia adquirida na comunidade (PAC).
+74	O parágrafo único do art. 40 da Lei de Propriedade Industrial brasileira estabelece a extensão de vigência de patentes pela mora do exame, ao menos, até dez anos a partir da concessão.
+75	Pensado como exceção, esse dispositivo tornou-se a regra no caso das patentes farmacêuticas, prolongando o prazo de exclusividade de exploração de medicamentos.
+76	Foram analisados três grupos: (a) quatro já em extensão; (b) três que, com a concessão das patentes, terão extensão; e (c) dois com patentes mailbox que estão em domínio público, mas que podem ter a extensão garantida judicialmente.
+77	Assim, foi projetado o gasto total nos respectivos períodos de extensão: R$ 6,8 bilhões.
+78	Uma busca de mercado por preços de alternativas genéricas retornou uma redução potencial de R$ 1,2 bilhão para o gasto do DLOG com apenas quatro medicamentos.
+79	Por fim, com base nas reduções mínimas, médias e máximas do mercado, foi encontrada uma economia potencial de até R$ 3,9 bilhões no gasto do DLOG com a compra dos nove medicamentos, se não houvesse o dispositivo de extensão de vigência.
+80	Material e Métodos: Estudo retrospetivo com caraterização dos resultados do doseamento de imunoglobulina G (IgG) específica contra o sarampo em profissionais de saúde, entre maio de 2010 e março de 2018.Resultados: Analisaram-se os resultados de 1339 trabalhadores, média de idades 39,3 ± 10,11 anos, 71,1% mulheres.
+81	Por sua vez, 83,1% dos profissionais com IgG negativa ou equívoca tinham maioritariamente idades inferiores a 40 anos (p < 0,05).Discussão: Verificou-se que a prevalência de profissionais imunes ao sarampo foi mais baixa que noutros estudos, podendo, contudo, esse resultado dever-se a diferenças entre as caraterísticas das amostras estudadas.
+82	Pré-operatoriamente, a marcha por insuficiência do glúteo médio esteve presente em todos os sujeitos e se tornou negativa em dez deles.
+83	A comparação entre pacientes não frágeis, pré-frágeis e frágeis não mostrou diferença significativa na distribuição das comorbidades e do estado funcional cardíaco, independentemente da doença cardíaca.
+84	Estudo transversal, utilizando registros de casos de síndrome gripal contendo resultados de testes diagnósticos da COVID-19 nas capitais brasileiras e no Distrito Federal, no sistema e-SUS Notifica, entre 1º/março/2020 e 18/agosto/2020.
+85	Entre testados, predominou o sexo feminino (55,1%), idade de 20-39 anos (43,8%) e região Sudeste (43,0%).
+86	O teste ELISA IgM foi realizado em tempo adequado para 58,8%; e o teste rápido-antígeno, em tempo inadequado para 68,0%.
+87	A medição do fluxo sanguíneo coronariano (FSC) na coronariografia (CAG) padrão despertou grande interesse recentemente, tentando combinar o conceito de CTFC com novos métodos para pós-angioplastia e avaliação da síndrome cardíaca X. Além disso, o fluxo coronariano lento é considerado um critério importante para a angina microvascular.
+88	Explorar uma nova abordagem de medição angiográfica quantitativa do FSC com base na detecção densitométrica de contraste na CAG offline, usando um software acessível para obter uma avaliação mais precisa e confiável do FSC.
+89	Trinta pacientes foram estudados e divididos em 2 grupos: fluxo sanguíneo coronariano normal (FN) e fluxo sanguíneo coronariano lento (FL), de acordo com a definição da CTFC.
+90	O MD foi aplicado à amostra do estudo para diferenciar entre FN e FL.
+91	O valor de referência normal do MD obtido para o fluxo sanguíneo coronariano foi de 9 [5–10] quadros.
+92	O MD mostrou a viabilidade de medir o fluxo sanguíneo coronariano com precisão, consistência e reprodutibilidade em um angiograma coronariano padrão, mostrando a capacidade adicional de diferenciar FN de FL em pacientes com dor precordial e artérias coronárias normais.
+93	Participaram do estudo 385 médicos de 73 municípios.
+94	Concluiu-se que as normas prisionais e as normas de cuidado se tensionam e convergem em uma dinâmica que busca beneficiar o bebê, sem deixar de punir a mulher.
+95	O efeito aleatório (unidade da federação) foi incluído para captar a correlação entre microrregiões que pertencem ao mesmo estado.
+96	Observou-se menor cobertura da segunda dose (entre 7 e 79,9%), com heterogeneidade associada ao grau de urbanização e à presença de domicílios com banheiro de uso próprio no município.
+97	O efeito aleatório mostrou forte poder explicativo, sugerindo importantes diferenças entre os estados brasileiros no alcance da cobertura vacinal.
+98	Já o consumo de cigarros legais, calculado com dados oficiais, aumentou entre 2016 e 2019 (+7,8 bilhões), sendo que a indústria encontrou uma redução deste consumo (-9,5 bilhões).
+99	Foram incluídos 102 pacientesconsecutivos com EAC isolada sem estenose (56 homens e 46 mulheres; idade média de 60,4 ± 8,8 anos).
+100	A CAR estava aumentada nos pacientes com EAC em comparação com os controles (32 e 16; p < 0,001).

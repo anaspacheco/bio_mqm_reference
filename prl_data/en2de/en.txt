@@ -1,0 +1,100 @@
+1	The impact of acute histopathological changes (HC) of the rectum on development of late clinical proctitis (LCP) after external radiotherapy (RT) for prostate cancer is poorly explored and was the primary end point of this prospective study.
+2	In 70 patients, 15 HC of early rectal biopsies after RT were identified, whereby RT was conventional 2D RT in 41 cases and conformational 3D RT in 29.
+3	Associations of HC in anterior and posterior rectal walls (ARW, PRW) with LCP, acute endoscopic (AEP) and acute clinical proctitis (ACP) were statistically evaluated considering as explicative variables the patient general characteristics and the HC.
+4	The mean patients' follow-up was 123.5 months (24-209).
+5	The impact of acute histopathological changes (HC) of the rectum on development of late clinical proctitis (LCP) after external radiotherapy (RT) for prostate cancer is poorly explored and was the primary end point of this prospective study.
+6	The univariate (p = 0.02) and Kaplan-Meyer methods (p = 0.007) showed that the gland (or crypts) loss in the ARW was significantly associated with LCP.
+7	The impact of acute histopathological changes (HC) of the rectum on development of late clinical proctitis (LCP) after external radiotherapy (RT) for prostate cancer is poorly explored and was the primary end point of this prospective study.
+8	Early after RT, substantial gland loss in ARW is predictive of LCP.
+9	Improvements in medical technologies have seen over-medicalization of childbirth.
+10	Caesarean section (CS) is a lifesaving procedure proven effective in reducing maternal and perinatal mortality across the globe.
+11	In recent years, CS rates have risen alarmingly in high-income countries.
+12	While this situation poses an increased risk to women and their children, it also represents an excess human and financial burden on health systems.
+13	Therefore, from a health system perspective this study systematically summarizes existing evidence relevant to the factors driving the phenomenon of increasing CS rates using Italy as a case study.
+14	Employing the WHO Health System Framework (WHOHSF), this systematic review used the PRISMA guidelines to report findings.
+15	Findings were organised through the six dimensions of the WHOHSF framework: service delivery, health workforce, health system information; medical products vaccine and technologies, financing; and leadership and governance.
+16	CS rates in Italy are affected by complex interactions among several stakeholder groups and contextual factors such as the hyper-medicalisation of delivery, differences in policy and practice across units and the national context, issues pertaining to the legal and social environment, and women's attitudes towards pregnancy and childbirth.
+17	Mitigating the high rates of CS will require a synergistic multi-stakeholder intervention.
+18	Specifically, with processes able to attract the official endorsement of policy makers, encourage concensus between regional authorities and local governments and guide the systematic compliance of delivery units with its clinical guidelines.
+19	In late 2019, a cohort of patients presenting with pneumonia of unclear etiology in Wuhan, China, heralded the outbreak of coronavirus disease 19 (COVID-19).
+20	The emergence of SARS coronavirus 2 (SARS-CoV-2), which causes COVID-19, has rapidly developed into a pandemic, and a large number of infected patients have been reported to have underlying cardiovascular disease.
+21	Since there are only scant published data regarding cardiovascular burden in the wake of viral epidemics, this study aimed to evaluate cardiac involvement in COVID-19.
+22	In late 2019, a cohort of patients presenting with pneumonia of unclear etiology in Wuhan, China, heralded the outbreak of coronavirus disease 19 (COVID-19).
+23	Adult patients diagnosed with COVID-19 in accordance with World Health Organization (WHO) interim guidance were included in the study, which focused on the potential cardiac involvement of SARS-CoV‑2.
+24	It was based on laboratory parameters as well as electro- and echocardiographic values to determine the impact of SARS-CoV‑2 virus on heart tissues.
+25	Cardiovascular monitoring upon COVID-19 infection is crucial to determine the burden of cardiac involvement.
+26	Previous severe acute respiratory syndrome (SARS) beta-coronavirus infections have been associated with tachyarrhythmias and signs and symptoms of heart failure.
+27	Awareness of the importance of working as aseptically as possible first emerged in the 19th century.
+28	In the meantime, there is an obligation to prevent transmission and further spread of pathogens, including adherence to the Infection Protection Act.
+29	Studies have shown that even contamination of untouched instruments after an otorhinolaryngological examination is not a rare occurrence.
+30	The Kommission für Krankenhaushygiene und Infektionsprävention (KRINKO) of the Robert Koch Institute gives recommendations for general hygiene measures (basic or standard hygiene).
+31	Due to the increasing development of resistance of nosocomial pathogens and the current pandemic, consistent implementation of these infection-prevention measures is important.
+32	Myofascial therapy and lymph drainage may be effective in patients with fibromyalgia.
+33	Further work is needed as the scientific evidence available is still insufficient.
+34	The surgical procedure is selected on the basis of the patients' demands and the properties of the surgical site to which the selected technique must be adapted.
+35	The current review presents frequently used and recommendable methods for the reconstruction of nasal defects.
+36	Necrotizing fasciitis (NF) is a life-threatening, usually bacterial, soft tissue infection that rarely affects the head and neck region.
+37	Rapid progression and systemic illness are typical for the disease and complicate diagnosis.
+38	Necrotizing fasciitis (NF) is a life-threatening, usually bacterial, soft tissue infection that rarely affects the head and neck region.
+39	Intravenously administered immunoglobulins and hyperbaric pressure therapy should only be used as supplementary treatments.
+40	After diagnosing NF based on clinical symptoms, laboratory parameters, and CT, the patients were treated with systemic antibiotics and multiple extensive debridements.
+41	The "Disability and Diversity Studies" (DDS) are research fields which, similar to social work, deal with social inclusion and exclusion processes.
+42	The concept of intersectionality opens up the view of the restriction of diversities, which can lead to the intensification of inequalities and multiple discriminations: e. g., in the case of being a woman and member of an ethnic minority.
+43	The starting point is therefore not the difference category per se, but the intersection of several categories [5].
+44	This knowledge of categorizing classification and exclusion in their intersectionality is fundamental for the dissolution of social, societal, political and economic inequality.
+45	The DDS bachelor's program at the Carinthia University of Applied Sciences, which combines Disability and Diversity Studies, focuses on these research areas and develops practical solutions.
+46	In medical education and training, too, it is essential that teachers and students, but also patients, recognise the complex interrelationships of divergences in medical practice and the resulting stigma that must be removed.
+47	Misunderstandings, lack of knowledge and wrong presettings can endanger the treatment [32].
+48	In order to create the framework conditions for an appropriate consideration of diversity and disability in the program, it is necessary to impart six core competencies to prospective physicians [20]: If possible, this should always be designed in the respective training courses of all health care professions in a patient-centred manner, across all occupational groups and under the premise "nothing for us without us" [1].
+49	The DDS examine these inequalities and identify intersectional relationships between diversity categories.
+50	Dimensions of disability and diversity can lead to disadvantages and inequalities in the individual life and social coexistence of people.
+51	This study aimed to analyse the relationship between increase in revenue and resource expenditure in reconstructive microsurgery at a university hospital of maximum care with regard to the treatment of interdisciplinary patients.
+52	The interdisciplinary surgical cases were identified from the collective and evaluated prospectively with regard to inpatient treatment days, surgical resource expenditure and economic development (DRG before and after microsurgical reconstruction).
+53	In 2018 and 2019, a total of 68 free microsurgical flaps were performed in 64 interdisciplinary cases.
+54	Considering the contribution of plastic surgery to the economic development and the associated resource expenditure, there is a significant increase in all parameters (p < 0.0001).
+55	Thus, the Case Mix Index (CMI) rose by 20.2 %, inpatient treatment days by 79.1 %, the number of surgical interventions by 62.4 %, cumulative incision-suture time by 131.4 % and total surgeon hours by 75.4 %.  Reconstructive microsurgical procedures lead to a significant increase in revenue in interdisciplinary surgical cases.
+56	Moreover, these additional costs are not always adequately reflected in the revenue of the DRG.
+57	This especially applies to DRGs with a high initial cost weight.
+58	In 2018 and 2019, all cases of interdisciplinary cooperation were followed up at one location of a plastic surgery department of a university clinic.
+59	Many of Kraepelin's collaborators were inspired by his ideas and driven by scientific enthusiasm which contributed to significant scientific advances, but also took them to very different ends from dental and bowel surgery to psychoanalysis and eventually evidence-based medicine; from racial hygiene and nationalism to the presidency of communist Romania.
+60	Drawing on sources such as home furnishing manuals, hygiene and household guidebooks, as well as literary texts, this article examines how the nineteenth-century domestic interior can be regarded as a functional environment regulated by textiles.
+61	While on the one hand this led to a supposedly natural and mechanical conflation of women and domestic space which has often been interpreted as restrictive and encapsulating, my aim is to identify a specific feminine agency that has its origin in the home but is not limited to it.
+62	This rate has been declining steadily since the 1980s and has so far halved; however, there is no absolute prevention of suicide; even under optimal protected conditions through therapy and care, approximately 5% of successful suicides occur in psychiatric institutions.
+63	A 10-item questionnaire on the handling of potentially critical items in closed/facultatively open intensive care/acute care units was developed and sent to 100 psychiatric hospitals throughout Germany.
+64	The study evaluates the predictive value of the critical status of a newborn as to the risk of developing hypoxic ischemic encephalopathy (HIE).
+65	On the basis of the data set from the perinatal survey in Hesse, Germany, in the year 2016, including 52,122 live births (singleton, 37+0 GA), cases of critical newborns were identified.
+66	A conjoined analysis with the data set of the neonatal survey from the identical period provided the basis to evaluate the relationship to cases compromised by HIE.
+67	The sensitivity of the status of the newborn for detecting a risk of HIE was 10.34%.
+68	The positive predictive value was 27.35%.
+69	The detailed, confidential single-case analysis indicated the ability to avoid negative outcomes in about one third of cases with a critical status of the newborn (4/11) and HIE (9/29).
+70	Measures of external quality assurance should integrate the analysis of both perinatal and neonatal surveys as a basis for quality management (QM).
+71	Loop isolation-based uploading preconditioning (LiuPhD) was modified to protect the heart from damage and the question of whether this can attenuate reperfusion injury after global myocardial ischemia was examined.
+72	A total of 120 matched patients had a median age of 62.0 (interquartile range [IQR] 55.8-69.0) years, 27 (22.5%) women, 35 (29.2%) with left main disease, and median follow-up of 18.5 (10.9-35.4) months.
+73	At follow-up of safety, the risk for composite major adverse cardiac and cerebrovascular events was similar between groups (event-free survival: 82.3% vs 73.8%; hazard ratio 1.00 [0.39, 2.54], p log-rank test = 0.99).
+74	The LiuPhD strategy is associated with short post-bypass times, comparable risk of myocardial injury, and similar safety compared with conventional direct clamp releasing.
+75	Mostly, explosions of e-cigarettes are attributed to its lithium-ion battery.
+76	The guidelines of the Advanced Trauma Life Support should be followed, signs of an inhalation trauma should be checked and litmus test should be performed prior to irrigation with aqueous solutions to prevent exothermic reactions with remaining metals.
+77	What is evidence-based in the treatment of patients with sepsis?
+78	Using the data of 6861 hearing aid fitted patients from a database, we calculated the benefit by A and two new formulas (improvement quotient B and cumulated benefit) and compared the results together.
+79	Excessive maternal gestational weight gain (GWG) is a risk factor for maternal and fetal complications.
+80	The hypothesis of the study was that apoB levels early in pregnancy are associated with excessive GWG and predictive for adverse outcomes.
+81	AKI can develop early or late in the course of the disease and is a strong determinator of outcome.
+82	AP-induced AKI (AP-AKI) shows many similarities but also distinct differences to other causes of AKI occurring in the intensive care unit setting.
+83	Unfortunately, there are only a few studies dealing with AP and AKI.In this review, we discuss recent data about pathogenesis, causes and management of AP-AKI in patients with severe acute pancreatitis and exploit in this regard the diagnostic and prognostic potential of respective newer serum and urine markers.
+84	The knowledge of the exact pathophysiology can help to adjust, control and improve therapeutic approaches to the disease.
+85	The German Sepsis guideline is an interdisciplinary guideline (S3 classification).
+86	It is an evidence- and consensus-based instrument for the improvement and quality assurance of prevention, diagnosis, therapy and aftercare of sepsis.
+87	The German Sepsis guideline is an interdisciplinary guideline (S3 classification).
+88	To investigate feasibility and outcome the novel and favorable option of an endoscopic ultrasonography(EUS)-guided antegrade or even retrograde gall stone extraction via a transhepatic route in patients (pats.) with no option for the usual gold standard, ERCP.
+89	From 2004 to 03/2020, overall 449 pats. underwent EUS-guided cholangiodrainage (n = 37 pats. with cholangiolithiasis).
+90	In 8 of these 37 pats., gall stone extraction was achieved using EUS-ERCP rendezvous technique (not included in the study since there was no surgically altered anatomy of the upper GI tract).
+91	(21 %), complications occurred in 6 individuals
+92	(21 %).  EUS-guided stone extraction in antegrade or retrograde technique for pats. with surgically altered anatomy of the upper GI tract can be considered a favorable and safe but challenging approach of interventional endoscopy/EUS.
+93	All consecutive pats. with cholangiolithiasis and surgically altered anatomy of the upper GI tract with and without previous attempts of an ERCP were enrolled in this unicenter case study and were characterized with regard to the technical and clinical success of this approach.
+94	Applying a curved transducer (C1-6), BFS showed superior delineation of the renal vascular tree (p < 0.001), a lower vessel-capsule distance (p < 0.001), a higher cortical vessel count (p < 0.001), and a higher cortical vessel density in the superficial cortex (p = 0.01) than CDS.
+95	To compare B-flow sonography (BFS) with color Doppler sonography (CDS) for imaging of kidney transplant vascularization in children.
+96	A 66-year-old women with chronic hepatitis-b and antiviral therapy was presented with icterus and sickness 2 weeks after cold symptoms.
+97	The liver was enlarged, the abdomen and further body status unsuspicious.
+98	The chemical results showed elevated liver enzymes and bilirubin values.
+99	The sonographic abdominal status was normal.
+100	The antiviral therapy was re-established and liver enzymes improved.

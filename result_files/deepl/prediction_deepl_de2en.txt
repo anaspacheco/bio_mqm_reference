@@ -1,0 +1,100 @@
+1	Chest pains are a common symptom that patients present with in primary care practice.
+2	Patients with acute chest pain pose a diagnostic challenge for the resident physician because a wide range of diagnoses can be considered, from life-threatening acute myocardial infarction and pulmonary artery embolism to much more common causes, such as harmless muscular tension from the group of so-called chest wall syndromes or gastrointestinal disorders, such as gastroesophageal reflux disease.
+3	Regardless of the location of the examination, the clinical evaluation of patients with acute chest pain follows the principle of a thorough clinical assessment by the physician with a physical examination and anamnesis.
+4	This is followed by further technical tests, such as a 12-channel electrocardiograph and targeted laboratory diagnostics with point-of-care tests (including troponin and D-dimers).
+5	The prognostic value is high, especially with serial determination of the NP, so that the clinical use in international HIV guidelines with the highest degree of evidence and recommendation has come to the fore.
+6	The concept of sequential NP measurements is used to measure sodium and water overload at clinically defined time periods.
+7	The subject of current studies is to find specific tumor signatures that are effective during HNSCC pathogenesis and to evaluate their prognostic relevance.
+8	Hypoglossal nerve stimulation (HNS) to treat obstructive sleep apnea (OSA) has been firmly established since the first statement by the Sleep Consortium of the German Society for ENT Medicine and Otorhinolaryngology (DGHNO).
+9	The existing 3 systems differ in the technical design of the similar basic principle.
+10	For the unilateral breathing-controlled HNS, several comparative studies, register analyses with 4-digit patient numbers and multi-year follow-up results are available.
+11	Continuous HNS does not require respiratory detection, and in contrast to respiration-controlled HNS, sleep endoscopy is not necessary to determine the indication.
+12	Bilateral continuous HNS is the only procedure that can be partially implanted; Initial feasibility studies are available for this purpose.
+13	Essential for the indication is the non-adherence of therapy in cases of at least moderate OSA, assessed with sleep medicine expertise, in individual consideration of further treatment options.
+14	The implantation clinic is at the center of interdisciplinary therapeutic responsibility and is the main contact in the event of therapeutic problems.
+15	Follow-up care for HNS-treated patients can very well be carried out across sectors and disciplines, and minimum information on treatment effects and use should be documented.
+16	The virtual conference was dedicated to the important and sometimes less-noticed challenge of building the bridge from the laboratory bench to application and implementing promising results from university research projects together with the pharmaceutical and medical technology industry.
+17	Several relevant problems were defined and discussed from the perspective of project managers from clinics and laboratories as well as managers from the pharmaceutical industry and from the field of patent law with an equally interdisciplinary group of participants from urology, pathology and natural sciences.
+18	AIM OF THIS STUDY: was to investigate epidemiological aspects of maternal immunization against fetal erythrocyte antigens (AB0, Rhesus, Lewis, Kell, Duffy and others) and to identify the most common causes of hemolytic disease of the newborn (HDN) in the region of Western Herzegovina.
+19	Although there has been significant progress in prevention immunization and proactive EMH treatment during this 20-year study, it still requires the precautions and activities of gynecologists and neonatologists.
+20	The pathomechanism is considered to be an eccentric load under PM tension (fall on the outstretched arm, injury during ground fighting or boxing, but especially during downward movements in bench press).
+21	The rupture sequence starts at the base, proceeding from superior to inferior, beginning with the most inferior muscle segments, followed by pars sternocostalis (PS) and pars clavicularis.
+22	In addition to clinical signs and ultrasonography, MRI has established itself as the diagnostic gold standard.
+23	The indication for surgical care exists in almost all lateral PM tendon ruptures with relevant strength deficit.
+24	Conservative therapy only affects patients who have muscular injuries close to the origin, as well as minor partial tears.
+25	The aim of the surgical therapy is the anatomical reconstruction of the PM unit with the restoration of the original tension conditions in order to enable optimal power transmission.
+26	Latissimus dorsi (LD) and teres major (TM) tendon ruptures are rare, but can lead to significant impairments in high performance athletes.
+27	Thermal ablation of saphenous varicosis has become a standard procedure in the treatment of varicose vein disease.
+28	The clinical success of the endovenous-thermal procedures is comparable to the stripping surgery, a significant difference between these groups could not be demonstrated in long-term analyses.
+29	There is only one difference in the genesis of saphenofemoral junction recurrences detected by duplex ultrasound: Neoangiogenesis occurs after stripping surgery, a recurrence of an untreated anterior saphenous vein, primarily after endovenous ablation of the saphenous vein.
+30	The classic restoration by means of wire tension strapping has some complications.
+31	(transverse fracture 52%, multi-fragment fractures 40%). In the case of multi-fragment fractures, 30% of surgeons opt for fixed-angle plate osteosynthesis.
+32	If the caudal pole is involved, the McLaughlin sling serves as an additional protection.
+33	Traditional tension-band wiring technique is still used as a method of choice.
+34	In addition, a clinical total score was recorded to assess the quality of life of the cats.
+35	The results suggest that a biweekly therapy with SUC may be more effective than weekly dosing.
+36	Background: The multi-component-multi-target therapy SUC (Solidago compositum ad us. vet., Ubichinon compositum and Coenzyme compositum, Heel GmbH, Baden-Baden, Germany) with the well-known angiotensin converting enzyme inhibitor (ACEI) benazepril in a prospective, non-randomized, two-arm cohort study in cats with chronic kidney disease (CKD).
+37	33 cats were treated with SUC and 35 cats received benazepril.
+38	Response to therapy was defined as improved or stable serum creatinine at the end of the study compared to baseline.
+39	Between February and July 2019, four patients with burns from exploded e-cigarettes were treated in the center for severe burn injuries in the Sana Klinikum Offenbach in Offenbach am Main.
+40	In all patients, the cause was a so-called
+41	"thermal runaway" (very rapid discharge of the battery).
+42	The cause, extent of the injury and its treatment are presented below.
+43	The average body surface area burned was 3% (0.5-4.5%), and this affected the body regions that are typically in direct contact with the e-cigarette users, namely thighs, genitals and hands.
+44	The extinguishing of fires caused by e-cigarettes also requires special measures.
+45	One patient was discharged after initial treatment against medical advice.
+46	Alcohol consumption was verified by urinary ethyl glucuronide (EtG) levels, eating and drinking patterns were verified by a food frequency questionnaire, and plasma FGF21 levels were determined by ELISA in 96 subjects (ALC n = 41; NALC n = 34; healthy n = 21).
+47	BACKGROUND: Salivary gland carcinomas (SGC) are rare tumors that pose a challenge for diagnosis and therapy due to their histological diversity and the different disease progressions depending on the subtype.
+48	A more comprehensive understanding of the relevant molecular changes and immunological processes of the tumor and surrounding stroma could help improve therapeutic efficacy, for example through adjuvant immunomodulation.
+49	BACKGROUND: Salivary gland carcinomas (SGC) are rare tumors that pose a challenge for diagnosis and therapy due to their histological diversity and the different disease progressions depending on the subtype.
+50	Expression of the surface cell receptor LAG3 ("lymphocyte activation gene 3") on tumor-infiltrating lymphocytes was observed in one third of the SGCs.
+51	LAG3 - similar to CTLA-4 ("cytotoxic T-lymphocyte antigen 4") and PD-1 ("programmed cell death 1 protein") - inhibits the cellular proliferation, activation and homeostasis of antitumorally active T cells.
+52	A more comprehensive understanding of the relevant molecular changes and immunological processes of the tumor and surrounding stroma could help improve therapeutic efficacy, for example through adjuvant immunomodulation.
+53	For example, the thromboelastometry.
+54	The proportion of persons undergoing rehabilitation employed with social insurance in the IG was about 11 percentage points higher than in the CG (ARR=0.11; 95% CI: 0.02-0.20; p=0.020).
+55	The primary target criterion was the rate of employment subject to social security contributions one year after the end of rehabilitation.
+56	Ten private non-seasonally atopic dogs that were only mildly affected.
+57	The spray was applied to the ventrum every 24 hours for 28 days.
+58	A lower value was found on the D28 (P=0.02) on the ears.
+59	Prospective, randomized, controlled studies are needed to confirm these findings and to confirm the effects on cutaneous immunity and the microflora of atopic dogs.
+60	Primary Ciliary Dyskinesia (PCD, MIM 242650) is a rare hereditary multisystem disease with a clinically heterogeneous phenotype.
+61	In order to generate more evidence-based knowledge in addition to the first drug study, further projects are established, e.g. an international PCD register.
+62	The main symptom is a chronic secretion of the upper and lower airways, which is caused by the dysfunction of motile respiratory cilia.
+63	To date, there are few evidence-based treatment recommendations due to the lack of randomized long-term trials for the treatment of PCD.
+64	This work provides a summary of currently used treatment methods, which are mainly based on personal experience and expert opinions or are derived from other respiratory diseases such as cystic fibrosis (CF), COPD or bronchiectasis.
+65	This article discusses the role of alcohol in our society and its importance to young people.
+66	The number of metastatic LN stations and the number of metastatic LNs are better prognostic factors than the currently used nodal classification in NSCLC.
+67	We performed three different strata for LN condition assessment: pN category (pN0, pN1, and pN2); sN category (sN0, sN1; first station of metastasis, sN2; the second and third stations of metastasis and sN3; ≥ fourth station of metastasis); the nN category (nN0, nN1; 3 LNs of metastasis, nN2; metastasis in four to six LNs and nN3; metastasis in ≥ 7 LNs).
+68	The five-year survival rates for categories N1, N2 and N3 were 54.1%, 42.4% and 16.1% by sN and 51.4%, 36.1% and 7.9% by nN (p < 0.0001).
+69	The number of metastatic LN stations and the number of metastatic LNs are better prognostic factors than the currently used nodal classification in NSCLC.
+70	The hazard ratios versus N0 for N1, N2, and N3 were more significant for sN and nN than for pN (1.597, 2.176, and 3.883 for sN; 1.645, 2.658, and 4.118 for nN, and 1.576, 3.222 for pN, respectively).
+71	In the classification of the subcategories sN and nN in the pN1 and pN2 subgroups, the anatomical location of LN involvement lost importance with increasing tumor burden and tumor spread.
+72	The number of metastatic LN stations and the number of metastatic LNs are better prognostic factors than the currently used nodal classification in NSCLC.
+73	In addition to intensification for risk groups, a low-threshold version could be useful for people with moderate impairments.
+74	The feasibility of part-time rehabilitation (BbR) was examined in a study.
+75	In addition to the application process, insured persons were recruited through the network of rehabilitation facilities and the company service of the German Federal Pension Fund.
+76	The target group was fit for work, gainfully employed insured persons, who need medical rehabilitation due to back pain.
+77	The feasibility of part-time rehabilitation (BbR) was examined in a study.
+78	7 groups with a total of 56 participants were conducted in 2 facilities.
+79	The typical BbR participant was female, married, without children, 48 years old and worked full-time in a medium-sized company without shift work.
+80	The feasibility of part-time rehabilitation (BbR) was examined in a study.
+81	Pre-post comparisons among BbR participants showed moderate to strong differences in assessments of general health, pain, functioning and ability to work.
+82	The feasibility of part-time rehabilitation (BbR) was examined in a study.
+83	Beginning at a BMI ≥ 40 kg/m², metabolic surgery should even be recommended as a possible therapy option, regardless of parameters of glycemic control or drug diabetes therapy.
+84	Non-alcoholic fatty liver disease (NAFLD) is one of the most common liver diseases.
+85	The presence of advanced fibrosis and cirrhosis increases liver-specific and overall mortality.
+86	Non-alcoholic fatty liver disease (NAFLD) is one of the most common liver diseases.
+87	The current overview summarizes new developments in non-invasive liver diagnostics.
+88	Acute renal failure following intravascular contrast administration has a long-term increased risk of dialysis and mortality in affected patients.
+89	The intravascular administration of iodinated contrast agents, despite continuous improvement in their pharmacological properties, may have systemic or hemodynamic side effects.
+90	In this overview, the valid recommendations for intravenous prophylaxis are summarized in this context, and a two-stage practical guide based on the last guideline recommendations is presented.
+91	Recent research results have led to a far-reaching adjustment of the clinical guideline recommendations: 90% of the patients previously classified as high risk for contrast medium-induced nephropathy no longer belong to this risk category, and prophylaxis in this regard prior to contrast administration is no longer recommended.
+92	This particularly affects CKD 4 and 5 chronic renal failure patients.
+93	A two-step screening approach provides guidance for practical implementation in the clinic.
+94	- More recent publications have contributed to an adjustment of the current guideline recommendations.
+95	In the present German Registry cohort, high SVR rates were achieved in patients including those with cirrhosis and prior decompensation when treated with VOX/VEL/SOF for 12 weeks, regardless of disease severity and previous DAA therapies.
+96	As part of a transconjunctival, seamless Pars plana vitrectomy, the macular region is emptied at the posterior pole by subretinal BSS ("balanced salt solution") injection and then the mold is closed during fluid-air exchange, followed by a gas or oil tamponade.
+97	In COVID-19 infection, there is a systemic viral reaction followed by an inflammatory disease phase.
+98	COVID-19 not only affects the lung parenchyma caused by the ACE2 receptors, but it can also cause generalized endothelial damage and inflammation in the whole body in the sense of a so-called
+99	Endotheliitis may result in vasoconstriction with consecutive organ ischemia, inflammation and tissue edema, and thrombotic microcirculatory dysfunction.
+100	Patients with pre-existing cardiovascular dysfunction (hypertension, diabetes mellitus, obesity and other cardiovascular diseases, male sex) have an increased risk of severe cases of COVID-19 infection.

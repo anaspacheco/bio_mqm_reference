@@ -1,0 +1,100 @@
+1	When a medicine is expensive, access to treatment for an uninsured patient with limited resources is a barrier that can lead to forgoing care for financial reasons.
+2	Many challenges specific to AI and medicine, such as the dematerialization of data, respect for privacy, explainability1 of algorithms, design of inclusive AI systems and their reproducibility, need to be overcome in order to build hospital workers' confidence in these tools.
+3	The consequences of domestic pollution on the respiratory system and the impact of air pollution on physical effort will also be discussed.
+4	Finally, immediate surgical exploration of the radial nerve is not recommended, even in the case of paresis secondary to fracture reduction.
+5	Age and oblique fractures of the proximal third are two risk factors for pseudarthrosis in which surgical management should be more readily considered.
+6	Very well known at the lumbar level, spondylolysis is rare and often ignored at the cervical level.
+7	Our analysis focuses in particular on criminal law, fines, data collection, and so-called "tip lines".
+8	Given that indigenous women represent over 41% of the federal female prison population, this is a concern.
+9	Indigenous women are also more likely to have higher levels of many chronic conditions including respiratory diseases that significantly increase vulnerability to complications from COVID-19.
+10	In our commentary, we explore the public health and human rights implications of the presence of COVID-19 in prisons and draw particular attention to the specific needs and circumstances of incarcerated indigenous women based on international best practice guidelines for COVID-19 prevention and response.
+11	For both data sources, the effects of sociodemographic factors were controlled for by logistic regression and multivariate probabilities' calculation.
+12	Women who obtain an abortion through Mexico City's public abortion program were more likely than their urban postpartum counterparts to receive a reversible modern contraceptive method before leaving the facility.
+13	The adjusted probability of adopting any modern reversible method of contraception was found to be higher among abortion patients (67% versus 48% in postpartum women).
+14	However, of the total number of women who received a contraceptive method, abortion patients had a lower adjusted probability of obtaining a long-acting reversible method (49% versus 82% of postpartum women) and a higher probability of obtaining a moderately effective method (38% versus 13%).
+15	The adjusted probability of implant adoption was higher among abortion clients (9% versus 3% among postpartum women), while the adjusted probability of IUD adoption was lower (38% versus 78%).
+16	Treatment of ureteral lithiasis.
+17	Lithiasis is formed in the kidney and then migrates into the ureter where it commonly manifests as renal colic.
+18	The treatment of ureteral lithiasis includes conservative, interventional, medical expulsive treatments such as ureteral stenting, ureteroscopy or extracorporeal lithotripsy, and, in some cases, oral chemolysis.
+19	This article provides a summary of the management of ureteral lithiasis and advances in treatment.
+20	We report the results of a questionnaire systematically offered to patients receiving treatment in a psychiatric consultation.
+21	Covid-19 Pandemic: What About Patients' Mental Health?
+22	The Covid-19 pandemic represents a significant challenge for the general population.
+23	With public safety personnel already reporting mental health and wellness issues even before the COVID-19 pandemic, the new stressors may increase the need for additional resources among these personnel in order for them to be able to help us in the long run.
+24	This article proposes various elements of support that may be relevant to promoting the well-being of public safety personnel during the period of prolonged stress caused by the COVID-19 pandemic.
+25	The COVID-19 pandemic has highlighted the critical role of public safety personnel in serving and protecting all Canadians.
+26	Following advances in pharmacogenomics (PGx), the paradigm that a single dose of a drug be extrapolated to an entire population is set to evolve.
+27	Personalizing drug prescription based on individual genomic determinants would increase treatment efficacy and tolerance.
+28	In Switzerland, any physician can perform validated PGx tests for five actionable drugs: abacavir, carbamazepine, thiopurines (azathioprine), fluoropyrimidines (5-fluorouracil, capecitabine) and irinotecan.
+29	Such an approach presupposes that PGx data be shared with trained clinicians and that prescribing support tools can guide them.
+30	How to fight against over-medicalization in hospitals? - Example of neuroleptics in acute confusional state.
+31	Since 2014, the Smarter Medicine campaign has established recommendations to target therapies or tests that are considered futile or represent a greater risk than the benefit provided to the patient.
+32	Ultimately, this initiative aims to develop, disseminate and implement education programs that make it possible to improve the quality of care.
+33	This article describes a multimodal, interprofessional intervention to decrease neuroleptic prescribing in acute confusional states and its impact on practice.
+34	The SARS-CoV-2 pandemic has highlighted the essential role of public health in protecting health and has been a powerful indicator of current public health capacity as well as corrective actions and requirements to be met in the future.
+35	In particular, we propose that while reforms must continue to enhance its health protection work, substantial efforts are needed to strengthen its surveillance, prevention, health promotion and primary care systems to be accessible, effective and comprehensive.
+36	In recent months, our fellow citizens have never heard so much about public health.
+37	Left ventricular noncompaction: diagnosis and management.
+38	Left ventricle noncompaction (LVNC) is a congenital malformation characterized by the presence of prominent trabeculations and deep intertrabecular recesses.
+39	Familial forms exist, justifying genetic counseling.
+40	The objective of this paper is to optimize the knowledge and management of LVNC by recalling the current diagnostic criteria.
+41	Estimated blood loss is an important tool in clinical decision-making and surgical prognosis research.
+42	They guide perioperative transfusion practice and serve as a key predictor of short-term perioperative risks as well as long-term oncological outcomes.
+43	Despite the widespread use of this modality in clinical and research settings, there is no gold standard for estimating blood loss.
+44	We attempted to systematically review and compare techniques for estimating intraoperative blood loss in major noncardiac surgery, with the goal of informing clinical evaluation and research standards.
+45	A structured search strategy was applied to the Ovid Medline, Embase, and Cochrane Library databases from their inception to March 2020 to identify studies comparing methods of estimating intraoperative blood loss in adult patients undergoing major noncardiac surgery.
+46	For each of these comparisons, we described trends toward higher or lower blood loss estimate values, consistency of results, combined mean differences, standard deviations, and confidence intervals.
+47	Moreover, visual techniques tended to yield lower blood loss estimates than formulaic or other technique-based estimates, although this effect did not reach statistical significance in the combined analyses, probably because of sample size limitations.
+48	Taking into account the contextual average blood loss, a similar variation on a case-by-case basis appeared with all estimation techniques.
+49	We observed that significant case-by-case variation was present with all methods of assessing blood loss and that there was significant disagreement between techniques.
+50	Given the importance placed on estimating blood loss, particularly in perioperative prognostication models, clinicians should consider the universal adoption of a practical and reproducible method of assessing blood loss.
+51	REGISTRATION OF THE STUDY: PROSPERO (CRD42015029439); registered on: November 18, 2015.
+52	The aim of this article is to present, through a case study, strategies for the prevention of pertussis and its treatment if suspected.
+53	Through the answers to eight questions, we evoke the basic principles that every general practitioner should know.
+54	Similarly, there is very little research in the context of homelessness on the preparedness of rural communities for a pandemic.
+55	There are significant numbers of people experiencing homelessness in rural and remote areas, among whom people of First Nations ancestry are overrepresented.
+56	Rural communities, including rural and remote Indigenous communities, are often isolated and more limited than urban settings in their ability to respond to pandemics.
+57	They are particularly vulnerable due to the lack of health care and social service resources; this is especially evident in the current COVID-19 pandemic.
+58	In this commentary, we call on policymakers to take seriously the situation of rural homelessness in Canada, its implications for individual and community health, and its consequences in the context of pandemics.
+59	More research is also needed to translate knowledge into policies, programs and support programs for rural and remote homelessness and pandemic preparedness.
+60	Policy and decision makers can address these concerns by increasing funding to combat homelessness and better support rural and remote settings by changing policies to recognize the unique challenges associated with homelessness and planning in case of pandemics for these settings.
+61	William Harvey reinterpreted in light of species evolution (I) - How and why circulation phylogenesis integrates itself within species evolution.
+62	The current prevailing interpretation integrates both genetics and epigenetics into intergenerational transmission and the dynamics of developing individual phenotypic characteristics, especially in humans.
+63	Adapted and targeted communications are essential elements for reaching and positively influencing Canadians from different communities and regions and with different ages, mother tongues, education levels and experiences.
+64	Acute neonatal osteomyelitis is a rare diagnosis, but one that should be made to decrease comorbidities.
+65	Staphylococcus aureus is the germ most commonly involved.
+66	We report a case of osteomyelitis secondary to staphylococcus aureus sepsis in a premature infant born at 25 weeks and 3 days of amenorrhea.
+67	The diagnosis was made incidentally on a plain x-ray of the abdomen.
+68	Low parental compliance with the child's follow-up care does not allow us to affirm a future without sequelae, even if the elements at our disposal during a consultation at 8 months suggest a favorable development.
+69	Clinical case: Acute neonatal osteomyelitis, a sometimes fortuitous diagnosis that can change a life.
+70	The focus is on the discursive processes of building solidarity through difference as they unfold in the social media environment.
+71	Facebook event pages calling for rallies in support of Syrian refugees have served as a space for discourse that has helped transform the moral shock experienced by members of different moral communities into a process of engaging in dialogue and building frameworks of solidarity and collective action through differences.
+72	This article presents the results of a multi-method case study that seeks to explain how collective action frameworks emerged in the context of Canada's refugee resettlement movement; which actors were involved in their articulation, and how they attracted others and generated collective action and humanitarian and political effect.
+73	In this narrative review, we describe the evidence motivating the use of direct oral anticoagulants (rivaroxaban and apixaban in Switzerland) which appear to have a higher benefit-risk ratio than heparins at a lower cost.
+74	Early detection of prostate cancer remains a subject of uncertainty for the general practitioner.
+75	Prostate cancer is the most frequently diagnosed non-cutaneous tumor in men, at a proportion of 15%. Although prostate-specific antigen has massively contributed to the identification of a curable stage in the last 25 years, it is simultaneously essential not to overtreat a cancer with a significant rate of benign tumors.
+76	In this controversial context, the prospective randomized study of the European Randomized Study of Screening for Prostate Cancer, and in particular its Swedish subpopulation, has validated the benefit of early detection over the last decade.
+77	Because of the varied therapeutic options and the potential side effects of some of them, it is recommended that this detection be carried out only in duly informed patients.
+78	Diagnosis and management of pulmonary embolism - Some thoughts on the latest recommendations from the European Society of Cardiology.
+79	The latest recommendations of the European Society of Cardiology on the diagnostic and therapeutic management of pulmonary embolism (PE) published this year provide an important update compared to the 2014 version.
+80	At the diagnostic level, adaptation of the D-dimer threshold to the patient's age is currently suggested and a diagnostic algorithm during pregnancy is proposed.
+81	Detailed recommendations for the initial referral of patients with acute PE are provided based on prognostic stratification criteria, as well as for clinical follow-up after PE.
+82	Its treatment involves the use of neuromodulatory substances that specifically target this hypersensitivity while keeping intact the cough reflex, which is essential for airway protection.
+83	Primary health care offers the most cost-effective route to universal health coverage (UHC).
+84	Yet the systems on which they depend remain fragile in many low- and middle-income countries.
+85	We therefore analyzed primary health care systems in 20 low- and middle-income countries using an approach partially based on reality.
+86	Options for strengthening primary health care systems were identified through thematic content analysis.
+87	We found that: (i) despite the increasing burden of non-communicable diseases, many low- and middle-income countries did not have sufficient funds to provide prevention services; (ii) health professionals in communities frequently lacked resources, support and training; (iii) non-reimbursable costs exceeded 40% of health expenditures in half of the countries surveyed, leading to inequalities; and (iv) health insurance schemes were hampered by fragmentation of public and private systems, underfunding, corruption and poor mobilization of informal workers.
+88	Moreover, community engagement in primary health care was negligible in states where services were mostly privatized.
+89	In some countries, decentralization had led to fragmentation of primary health care.
+90	Performance was better when financial benefits related to regulation and quality improvement, and involvement was strong within the community.
+91	The policymaking process should be accompanied by the necessary resources for the establishment of a primary health care system, and governments should increase their spending in this area by at least 1% of the gross domestic product.
+92	It is also imperative to define financing regimes that favor equity and promote the reliability of the management of primary health care.
+93	The contribution of primary health care systems is critical to progress towards UHC by 2030.
+94	A young patient suffering from congenital myotonic dystrophy, or Steinert's disease, presents, at the age of 4 and a half months, an increase of his cranial circumference and signs of intracranial hypertension.
+95	Radiological workup reveals major hydrocephalus.
+96	The child develops favorably after ventriculoperitoneal derivation.
+97	While ventriculomegaly is common in congenital myotonic dystrophy, hydrocephalus with signs of intracranial hypertension is rare, hence the need for regular monitoring of the cranial circumference.
+98	From 2000 on, Zimbabwe's rural reform radically transformed the agrarian structure, and with it the small villages in rural areas.
+99	Case studies highlight the importance of social networks and relationships between rural and urban areas, associated with new migration patterns and the massive growth of the shadow economy.
+100	The parasitic biodiversity of fish in the coral reefs of the South China Sea is still incompletely explored.

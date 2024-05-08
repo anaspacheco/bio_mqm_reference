@@ -1,0 +1,100 @@
+1	A review was conducted on articles published in the MEDLINE, Scopus, and LILACS databases between 2008 and 2019.
+2	Among 2,686 studies initially surveyed, 167 were pre-selected for reading, 24 selected and categorized according to thematic content analysis.
+3	Materials and Methods: The comorbidities of patients with acute heart failure were retrospectively compared with a control group of patients with chronic heart failure admitted to an Internal Medicine unit within two years.
+4	Obesity, atrial fibrillation, peripheral artery disease, and chronic kidney disease have been identified as independent risk factors.
+5	Conclusion: Comorbidome is a useful tool to identify comorbidities associated with an increased risk of acute heart failure.
+6	The identification of vulnerable patients may allow the institution of multidimensional interventions to minimize future hospitalizations.
+7	Identify the average direct cost of the procedures performed for the treatment of the adverse event phlebitis in patients in a Clinical Hospitalization Unit and estimate the cost of the procedures performed for the treatment of phlebitis in this unit.
+8	Data were analyzed using descriptive statistics.
+9	The Malaria Control Program performs below the recommended level, missing the established gold standard, which could mean the maintenance of or increase in malaria cases.
+10	Visual perceptual profiles of children using the Flemish CVI questionnaire OBJECTIVES: To investigate the factor structure of the 46-item Flemish CVI questionnaire, to differentiate the factor scores of children with and without CVD, and to examine the impact of comorbidities on factor scores.
+11	METHODS: The medical records of 630 children (386 male, 244 female; median age 77 months; interquartile range 63-98 months) who visited the CVD clinic and the Center for Developmental Disorders at the University Hospitals of Leuven from 2001 to 2018 were systematically reviewed.
+12	RESULTS: Three hundred and forty-five children (179 with CVD [108 male, 71 female; median age 74 months; interquartile range 61-93 months] and 166 without CVD [110 male, 56 female; median age 88 months; interquartile range 70-107 months]) were included.
+13	An exploratory factor analysis resulted in a biologically and clinically plausible 5-factor model (deficiencies in object and face processing; visual disinterest; deficiencies in perceiving crowded spaces and distance; deficiencies in movement in space; and anxiety-related behaviors) that retained 35 items and explained 56% of the total variance.
+14	INTERPRETATION: A 5-factor structure of the Flemish CVI questionnaire differentiates children with and without CVD.
+15	Comorbidities must be considered when researching cardiovascular diseases.
+16	This study aimed to determine the levels of serum protein 3 containing a NACHT domain, leucine-rich C-terminal portion, and pyrin domain repeats (NLRP3) and cathelicidin LL-37, as well as to investigate its prognostic importance in community-acquired pneumonia (CAP).
+17	This prospective study included 76 patients with community-acquired pneumonia (CAP).
+18	Demographic data and clinical characteristics were obtained.
+19	Patients with severe CAP tend to have elevated serum NLRP3 levels and reduced LL-37 levels, which can be used as a potential prognostic biomarker.
+20	To assess the relationship between atherogenic indexes and SVG stenosis.
+21	Significance was established at the p<0.05 level.
+22	Assess the efficacy, safety, and tolerability of the cannabinoid drug nabiximols oromucosal spray as adjunctive therapy for children with spasticity due to cerebral palsy/traumatic central nervous system injury with inadequate response to existing treatments.
+23	METHOD: Overall, 72 patients (mean [SD] age 12 years 4 months [3 years 1 month], range 8-18 years) were randomized in a 2:1 ratio to receive nabiximols (n=47; 29 males, 18 females) or placebo (n=25; 15 males, 10 females) for 12 weeks (12 sprays/day max based on clinical response/tolerability).
+24	There was no significant difference in spasticity according to the 0 to 10 ENP scale between the nabiximols and placebo groups after 12 weeks.
+25	Our goal is to assess the prognostic value of different comorbidities in the risk of developing acute heart failure.
+26	Conclusion: Comorbidoma is a useful tool for identifying comorbidities associated with an increased risk of acute heart failure.
+27	The identification of vulnerable patients may allow the institution of multidimensional interventions to minimize future hospitalizations.
+28	There was no significant difference in patient age between groups (p=0.081).
+29	Among the patients, 72.9% were male; 542 patients underwent surgery without CPB (18.7%).
+30	Among the pre-operative characteristics, patients with a previous acute myocardial infarction (AMI) (p=0.005) and ventricular dysfunction (p=0.031) underwent surgery with SCC; however, patients requiring emergency surgery or classified as New York Heart Association (NYHA) IV underwent surgery without SCC (p<0.001).
+31	TIMI flow grade and corrected TIMI frame count (CTFC) are widely used methods to assess angiographic coronary blood flow.
+32	The measurement of coronary blood flow (CBF) during standard coronary angiography (CAG) has recently gained considerable interest, aiming to integrate the concept of CBCT with new methods for post-angioplasty assessment and evaluation of cardiac syndrome X. Additionally, slow coronary flow is considered a significant criterion for microvascular angina.
+33	Explore a new approach to quantitative FSC angiographic measurement based on densitometric contrast detection in offline CAG, using affordable software to obtain a more accurate and reliable FSC assessment.
+34	Thirty patients were studied and divided into 2 groups: normal coronary blood flow (NF) and slow coronary blood flow (CSF), according to the CTFC's definition.
+35	MD was applied to the study sample in order to differentiate between FN and FL.
+36	The obtained mean difference normal reference value for coronary blood flow was 9 [5–10] frames.
+37	The FN vs. FL groups were compared and expressed as median [interquartile range], for the left anterior descending artery: 10 [7–11] vs. 21 [8–33]; p=0.016; circumflex artery: 9 [4–13] vs. 14 [11–30]; p=0.012; and right coronary artery: 5 [3–11] vs. 13 [8–26]; p=0.009.
+38	The MD demonstrated the feasibility of measuring coronary blood flow with precision, consistency, and reproducibility in a standard coronary angiogram, also showing the additional capability to differentiate false negatives from false positives in patients with chest pain and normal coronary arteries.
+39	Build scenarios and analyze the impact of social distancing policies on the spread of COVID-19 and the need for intensive care unit (ICU) beds.
+40	The lack of distancing would imply a severe scenario, with a peak of 6,214 (IIQ: 4,618 to 8,415) ICU admissions likely by 07/14/2020. The projections indicate a significant impact of social distancing measures and reinforce the applicability of public indicators in monitoring COVID-19.
+41	A crucial outcome to be considered at the time of this choice is the need to re-perform revascularization, since it becomes much more frequent after percutaneous coronary intervention (PCI) than after coronary artery bypass surgery (CABG).
+42	The purpose of this study is to reflect on patients' preferences for revascularization strategies from the perspective of patients who have had to undergo revascularization again.
+43	We selected a sample of patients who had undergone percutaneous coronary intervention (PCI) and were hospitalized to undergo repeat coronary revascularization, and we elicited their preferences for new PCI or coronary artery bypass grafting (CABG).
+44	The conditional logistic model was used to analyze the patients' choices, using the software R. Values of p < 0.05 were considered statistically significant.
+45	The regression coefficients were statistically significant for the PCI label, long-term mortality from PCI, perioperative death from CABG, long-term mortality from CABG, and redo CABG.
+46	The ICP label was the most significant parameter (p < 0.05).
+47	Most patients facing the need for repeat coronary revascularization reject another PCI, based on realistic assessments of risks and benefits.
+48	Those with "overweight and high body fat percentage" had the lowest average for HDL-cholesterol (43.2 mg/dL) compared to the other groups; the highest average for interleukin-6 (2.7 pg/mL) compared to "eutrophic" and "overweight and adequate body fat percentage"; and higher medians for triglycerides (114.0 mg/dL) and C-reactive protein (0.14 ng/mL) compared to "eutrophic" and "obese people with normal weight".
+49	Those with "overweight and adequate body fat percentage" had the same C-reactive protein levels as those with "overweight and high body fat percentage."
+50	The assessment of nutritional status by BMI is limited, as 6.8% of the adolescents recorded high body fat percentage despite normal BMI, moreover, the "normal weight obesity" had two worse biomarkers than adolescents with "overweight and high body fat percentage".
+51	Comparisons were made by single factor analysis of variance and Fisher's least significant difference test, with p < 0.05 considered significant.
+52	Highlight the surgical treatment of fractures involving the interphalangeal joint of the hallux, its current indications, and treatment options.
+53	Descriptive study, with data from the Brazilian Association of Organ Transplants.
+54	Of these, 17 (23.6%) in the second trimester.
+55	The numbers of donors and transplants in Ceará showed a significant decline in the three months following the decree of the COVID-19 pandemic, especially those of kidney, heart, and cornea modalities.
+56	To analyze the relationship between anxiety, binge-eating, and sleep quality in overweight or obese adults.
+57	The samples were recorded during the production of 9 different speech stimuli: number counting and oral phrase sets, 1 consisting of low pressure consonants and 7 consisting of high pressure consonants.
+58	We intend to raise awareness about this association of relatively frequent intoxications and the need for urgent empirical treatment.
+59	We aimed to investigate whether there are changes in the QT, QTc, and Tpe intervals, and in the Tpe/QT and Tpe/QTc ratios in patients with COVID-19.
+60	It was found that baseline heart rate, presence of hypertension and diabetes, white blood cell count, blood urea nitrogen, creatinine, potassium, aspartate aminotransferase, alanine aminotransferase, NT-proBNP, high-sensitivity C-reactive protein, D-dimer, TncI-as, Tpe interval, Tpe/QT ratio, and Tpe/QTc ratio increased from group I to group IV and were significantly higher in all patients in group IV (p < 0.05).
+61	The QT and QTc intervals were similar between groups.
+62	Postoperative (PO) coronary artery bypass graft (CABG) patients admitted to the intensive care unit (ICU) are at risk for complications that increase length of stay and morbidity and mortality.
+63	Analyze the performance of severity indices in predicting complications in patients in the CABG unit during their stay in the ICU.
+64	This is a cross-sectional study with a retrospective analysis of electronic medical records of patients aged 18 years or older who underwent isolated CABG and were admitted to the ICU of a cardiology hospital in São Paulo, Brazil.
+65	Compared to the AHA/ACC guideline, the Brazilian guideline classifies a greater proportion of patients in primary prevention into higher risk categories and substantially increases statin eligibility.
+66	These tensions and contradictions are also expressed in policy documents that recognize that the practices of the private commercial sector favor obesity, and consider it a partner.
+67	The objective of this study was to validate the Brazilian version of the Patient-Reported Outcomes Measurement Information System (PROMIS) Sleep Disturbance and Wakefulness Disturbance item banks.
+68	It can be concluded that for the Brazilian Portuguese language version of the item banks, PROMIS Sleep Disturbance and Wakefulness Disturbance has proven to be a reliable, accurate, and valid measure, with robust psychometric analyses.
+69	Statistical tests were applied (chi-square and Marascuilo's procedure), considering significant differences when the tests showed p-value <0.05.
+70	We observed statistically significant differences between age groups and lethality (p-value <0.001); higher lethality the older the age (Marascuilo procedure, significant when comparing the over-60s with the other age groups); higher death in males (lethality 2.7%); and higher lethality among blacks (3.0%).
+71	Research with a qualitative approach, of the participant-action type, supported by Paulo Freire's Research Itinerary, developed through Culture Circles, consisting of three stages: Thematic Investigation, Codification and Decoding, and Critical Unveiling.
+72	Twenty generating themes emerged from the Culture Circles, six of which were considered by the participants as pertinent to borderline situations: accumulation of activities, difficulty in monitoring and following up on children, work focused on productivity, lack of training, limited human resources, and difficulty in receiving children.
+73	This study aimed to determine the levels of serum protein 3 containing a NACHT domain, leucine-rich C-terminal portion, and pyrin domain repeats (NLRP3) and cathelicidin LL-37, as well as investigate its prognostic importance in community-acquired pneumonia (CAP).
+74	The sole paragraph of article 40 of the Brazilian Industrial Property Law establishes the extension of the validity of patents due to the delay in the examination, up to ten years from the grant at a minimum.
+75	Considered an exception, this device became the rule in the case of pharmaceutical patents, extending the period of exclusivity for drug exploitation.
+76	Three groups were analyzed: (a) four already in extension; (b) three that, with the granting of patents, will have extension; and (c) two with mailbox patents that are in the public domain, but that may have the extension guaranteed in court.
+77	Thus, the total expenditure for the respective extension periods was projected at R$ 6.8 billion.
+78	A market search for prices of generic alternatives has shown a potential reduction of R$ 1.2 billion in DLOG spending with just four medications.
+79	Finally, based on the minimum, average, and maximum market reductions, a potential savings of up to R$3.9 billion in DLOG spending on the purchase of the nine drugs was found if there were no expiration extension device.
+80	Materials and Methods: Retrospective study with characterization of the results of the measurement of measles-specific immunoglobulin G (IgG) in health professionals, between May 2010 and March 2018. Results: The results of 1339 workers, average age 39.3 ± 10.11 years, 71.1% female were analyzed.
+81	In turn, 83.1% of professionals with negative or equivocal IgG were mostly under 40 years of age (p < 0.05). Discussion: It was found that the prevalence of professionals immune to measles was lower than in other studies; however, this result may be due to differences in the characteristics of the samples studied.
+82	Preoperatively, all subjects exhibited a gait due to gluteus medius insufficiency, which resolved in ten of them.
+83	The comparison between non-frail, pre-frail, and frail patients showed no significant difference in the distribution of comorbidities and cardiac functional status, regardless of heart disease.
+84	Cross-sectional study, using records of cases of flu syndrome containing results of diagnostic tests for COVID-19 in Brazilian capitals and the Federal District, in the e-SUS Notifica system, between March 1, 2020 and August 18, 2020.
+85	Among those tested, females (55.1%), aged 20-39 years (43.8%), and from the Southeast region (43.0%) predominated.
+86	The IgM ELISA test was performed at an appropriate time for 58.8%; and the rapid antigen test, at an inadequate time for 68.0%.
+87	The measurement of coronary blood flow (CBF) in standard coronary angiography (CAG) has garnered great interest recently, attempting to combine the concept of CBCT with new methods for post-angioplasty and evaluation of cardiac syndrome X. Additionally, slow coronary flow is considered an important criterion for microvascular angina.
+88	Explore a new approach to quantitative FSC angiographic measurement based on densitometric contrast detection in offline CAG, using affordable software to obtain a more accurate and reliable FSC assessment.
+89	Thirty patients were studied and divided into 2 groups: normal coronary blood flow (NF) and slow coronary blood flow (CSF), according to the CTFC's definition.
+90	MD was applied to the study sample in order to differentiate between FN and FL.
+91	The obtained mean difference (MD) normal reference value for coronary blood flow was 9 [5–10] frames.
+92	The MD demonstrated the feasibility of precisely, consistently, and reproducibly measuring coronary blood flow during a standard coronary angiogram, also revealing the capability to distinguish between FN and FL in patients with chest pain and normal coronary arteries.
+93	385 doctors from 73 municipalities took part in the study.
+94	It was concluded that prison and care norms create tension and converge in a dynamic that seeks to benefit the baby, while still punishing the woman.
+95	The random effect (federal unit) was included to capture the correlation between micro-regions that belong to the same state.
+96	There was less coverage of the second dose (between 7 and 79.9%), with heterogeneity associated with the degree of urbanization and the presence of households with their own bathroom in the municipality.
+97	The random effect showed strong explanatory power, suggesting important differences between Brazilian states in the scope of vaccination coverage.
+98	Consumption of legal cigarettes, on the other hand, calculated with official data, increased between 2016 and 2019 (+7.8 billion), while the industry reported a reduction in consumption (-9.5 billion).
+99	We included 102 consecutive patients with isolated CAE without stenosis (56 male and 46 female; mean age 60.4 ± 8.8 years).
+100	CAE increased in patients with ACS compared to controls (32 and 16; p < 0.001).

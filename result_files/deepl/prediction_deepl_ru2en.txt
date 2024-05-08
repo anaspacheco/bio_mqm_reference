@@ -1,0 +1,100 @@
+1	The genomes belonged to infected patients from 68 countries.
+2	The most common variants found were the synonymous substitution 3037C > T (6334 samples), P4715L in open reading frame 1ab (6319 samples), and D614G in the spike protein (6294 samples).
+3	Regarding base substitutions, the most frequent mutation was the cytosine to thymine substitution (C>T), which occurred in 1670 variants.
+4	The authors have discovered the existence of several variants of the SARS-CoV-2 genome and have found that since December 2019, the most prevalent variant is the D614G clade.
+5	The review discusses the main pathophysiological mechanisms of reperfusion syndrome development in heart, brain, and lower extremity vascular lesions.
+6	The article discusses the advantages and disadvantages of different types of surgical interventions for peripheral artery disease, the PLAN concept (Patient risk, Limb severity, and Anatomic complexity; evaluation of patient risk, classification of limb status, and anatomical disease model), and a new system for assessing the nature of peripheral artery disease called GLASS.
+7	Adequate medication therapy can help achieve good long-term results of the surgeries.
+8	In this regard, the analysis of the results of the studies COMPASS and VOYAGER PAD is carried out.
+9	The obtained findings open up new opportunities for conservative therapy, which plays a significant role in reducing the risk for development of limb-threatening conditions.
+10	There was an objective improvement in the overall well-being of patients, an increase in activity and mood according to the results of the SAN questionnaire, and the psychological state on the Hamilton scale.
+11	Regardless of the treatment chosen for breast cancer, more than 85% of patients develop post-mastectomy syndrome (PMES) after a course of therapy, significantly impairing their quality of life and psychological condition.
+12	Physiotherapeutic methods in the conservative treatment of PMES have appeared comparatively recently and the results of various rehabilitation complexes have begun to be evaluated.
+13	To evaluate the effectiveness of some physiotherapy methods in the rehabilitation of patients with PMES according to clinical indicators, markers of endothelial dysfunction and survey results.
+14	185 PMES patients were examined and divided into 4 groups: in the 1st group (control, 61 patients), basic treatment was used (therapeutic physical training, photo-matrix therapy, manual lymph drainage massage of the affected upper limb, pneumatic compression); in the 2nd group (43 patients), basic treatment + sinusoidal modulated currents on the area of the thoracic girdle; in the 3rd group (42 patients), basic treatment + electrostatic upper limb therapy on the side of the operation; in the 4th group (39 patients) Basic treatment + SMT therapy + electrostatic therapy.
+15	The decrease in IL-10 and homocysteine confirms the safety of the use of physical factors in the treatment of PMES.
+16	Screening of children 18-48 months of life from the general population for the detection of risk of mental development disorders (MDD).
+17	The prevalence of the risk of occurrence of MDD has been determined - 1307 cases per 10,000.
+18	To conduct a scientometric analysis of evidence-based studies of physical treatments for patients with the consequences of spinal cord injury (SCI).
+19	A trend towards an increase the number of randomized controlled trials to evaluate the effectiveness and expand the range of physical and rehabilitative medicine technologies used in the rehabilitation of patients with SCI.
+20	An analysis of postmortem examination results of 186 COVID-19 patients from 20 sources in the literature has been conducted.
+21	The pathological changes were multi-organ in nature, with a predominant involvement of the respiratory, cardiovascular, and urinary systems.
+22	Changes in the lungs were characterized by an increase in organ weight (in 59.3% of cases), a dark red color of the parenchyma (in 47.4%), consolidation of lung tissue (in 56%), and signs of stagnant phenomena (in 37.3%).
+23	In the analyzed sources, marked thrombosis and thromboembolism of the branches of the pulmonary artery associated with deep vein thrombosis of the lower extremities were observed in 22% of cases.
+24	Disclosure of the mechanisms and therapeutic possibilities of the pharmacopuncture in metabolic syndrome.
+25	In addition to clinical parameters, lipid and carbohydrate metabolism, atherogenic index, catalase and superoxide dismutase activity, the level of pro-oxidant processes, and the presence of insulin resistance were evaluated.
+26	In the first group, treatment was limited to standard medication approach, while in the other groups, pharmacopuncture was additionally performed.
+27	At the same time, the results of the examination of 35 conditionally healthy individuals of both sexes under the age of 40 were taken as average normative indicators ("control").
+28	The presented data indicate, on the one hand, in favor of the therapeutic breadth of the effects of pharmacopuncture, and on the other hand, show the possibility of a differentiated effect.
+29	In previously published materials on the study of the use of the method of pharmacopuncture (injection of medicines into the area of reflex therapy points), the authors of this article pointed out the effectiveness of pharmacopuncture with the antioxidant Ubiquinone compositum and (as a pilot study) with a similar drug Coenzyme compositum (Heel, Germany).
+30	160 patients (103 women and 57 men) with metabolic syndrome were monitored.
+31	The present work develops this topic by further comparing the characteristics of pharmacopuncture with the presented means.
+32	The paper presents the results of a one-stage study of bone mineral density (BMD) in 202 patients over 90 years of age suffering from coronary artery disease.
+33	These data were included in f.
+34	No. 7 on our offer only since 2011.
+35	The calculation of the one- and five-year survival rates for patients with this pathology is carried out only by us in 10 administrative territories of the North-West Federal District. In February 2019 we formed the first Russian Population Cancer Register (RPCR) here at the level of the federal district with a total database of more than 1 million cases.
+36	At the same time, using the PRR database, it should be kept in mind that the accounting reliability index (the ratio of the number of deaths to the number of first-time cases) for eye cancer (C69) is about 0.50% and is constantly decreasing, and the reliability of accounting is increasing.
+37	Previously, similar work was carried out only on the materials of the PRR of St. Petersburg.
+38	Stimulation intensity was raised gradually from 2 mA, to within 3-4 mA. Recording of ACEs was performed by averaging evoked responses (30-50 stimuli in each session) with an electrocorticogram analysis epoch of 300 ms, starting from the moment of stimulus.
+39	Direct electrical stimulation of the cerebral cortex was used to validate the results of cortico-cortical mapping of speech zones using the CCVP method.
+40	In the clinical cases presented, it was possible to obtain ETCs from the inferior frontal gyrus while stimulating the superior temporal gyrus.
+41	The declared pandemic of COVID-19 in the world, the worsening epidemiological situation in our country, self-isolation regime, the growing fear in society against the background of panic rumors and disinformation spread in social networks and mass media, cause concern for the fate of patients suffering from mental disorders, and pose urgent organizational and therapeutic tasks for our psychiatric service.
+42	As a top priority, it is proposed to separate the flows of individuals in need of psychological support and psychiatric assistance and to organize remote provision of these services (hotline numbers and telemedicine consultations).
+43	Taking into account the experience of other countries that have already faced the mass spread of COVID-19, this article provides an overview of proposed urgent and preventive organizational and therapeutic measures, and practical recommendations for the emergency temporary reorganization of the psychiatric service, provision of psychological and psychotherapeutic support to the most vulnerable population groups, including medical personnel working with COVID-19 patients, and management of mentally ill patients with severe acute respiratory syndrome.
+44	This article presents a rare observation, including clinical, instrumental, morphological and autopsy data of stage IVB anaplastic thyroid carcinoma in a 66-year-old woman.
+45	Merkel cell carcinoma (MCC) is a rare aggressive neuroendocrine skin tumor with a high rate of recurrence and local metastasis.
+46	The average age at which MCC is diagnosed is 75.
+47	Identifying the role of somatic mutations and DNA reparations in aging mechanisms raises the question of their direct relationship with the processes of differentiation, age-related features of immunity, programmed cell death, and malignant growth.
+48	In this regard, there is still a need for research aimed at improving the early diagnosis and pathogenetic treatment of elderly patients with MCC.
+49	Diagnosis is based on the detection of alternating areas of narrowing and dilation of arteries using angiography - a symptom of "thread beads" (multifocal form).
+50	The treatment includes taking antiplatelet agents. If these are ineffective in preventing recurrent ischemic disorders of the cerebral circulation, endovascular treatment is provided.
+51	Evaluation of the state of individual hemodynamic parameters (heart rate - HR) and respiratory indicators in dentists administering local anesthesia.
+52	Thus, the limit of the index change against the background of local anesthesia performed on the lower jaw was 95.2-96.1%, and on the upper jaw - 96.3-96.6%.
+53	From April to December 2019, the heart rate and arterial blood oxygen saturation (SaO2) was determined
+54	Quantitative and qualitative characteristics of the structure of the mineral component of retained tooth enamel with and without connective tissue dysplasia at various periods of early postnatal human ontogenesis are given using densitometry and atomic-force microscopy methods.
+55	The structure of tooth enamel in connective tissue dysplasia in the early postnatal period of ontogenesis is characterized by pronounced polymorphism and insufficient level of maturity.
+56	Incomplete amelogenesis is observed in cases of connective tissue dysplasia in the early postnatal period of ontogenesis. This is manifested by lower values of the optical density of the mineral component, low packing of enamel prisms, a large distance between enamel prisms and their irregular shape.
+57	At the age of 15-20, and 21-30 years, the orderliness and orientation of the enamel prisms were disturbed due to the insufficient packing density and the large distance between the enamel prisms.
+58	Despite the fact that the basis for prevention and treatment of venous thromboembolic complications is anticoagulant therapy, in the cases where there are contraindications, complications, as well as as in case of ineffectiveness of the ongoing anticoagulant therapy, installation of a cava filter is indicated.
+59	An analysis of the treatment of 4 patients who were treated from February 2015 to March 2017 was carried out.
+60	The time required for phlebotomy, extraction of the filter and suturing of the phlebotomy area took 32 to 45 min.
+61	Maximum blood loss was 300 ml and did not require blood products transfusion.
+62	No significant systemic and wound complications were observed in the postoperative period.
+63	Kenya's 2010 constitution initiated a set of reforms in all sectors to bring them in line with new constitutional standards, including devolution of power and a comprehensive bill of rights.
+64	The Constitution acts as a platform to advance health rights and restructure policy, legal, institutional, and regulatory frameworks to address chronic issues and improve health outcomes.
+65	The transformation of all parts of the healthcare system is happening simultaneously, so several new laws have been passed and public health authorities have been created.
+66	To gain insight into the scope of healthcare reforms in the first 10 years of the constitution, the authors developed an adapted framework for the healthcare system, guided by the concepts and definitions of the World Health Organization.
+67	This structure was used to document which laws and bodies have already been enacted and which are in the process of being created, and to compare the degree of changes before and after the adoption of the 2010 Constitution.
+68	As the analysis showed, there are many structures (laws and executive state bodies) in the healthcare system, and while many new supervisory structures are associated with the delegation of authority, there is significant fragmentation within the regulatory subfunction.
+69	By deconstructing the normative functions of the healthcare system, the framework has made it possible to comprehensively map the various attributes of the healthcare system (functions, laws and executive bodies).
+70	Constitutional reform is the driving force behind significant progress in institutional change in the healthcare sector. It enhances two aspects of change enforceability: stakeholder acceptance and the authority to implement it.
+71	The experiments were carried out on 7 groups of rats (10 individuals each) in the spring.
+72	The model of physical activity was chosen by the method in its own modification of forced swimming of rats until complete fatigue.
+73	For the induction of experimental desynchronosis, the animals of experimental groups were around the clock for 10 days under artificial bright illumination of 150 LX or complete obscuration of 2-3 LX.
+74	Mexidole was administered intramuscularly in a dose of 10 mg/kg animal 30 min prior to the swimming test.
+75	The functional state of the rectum and anal sphincters was evaluated using methods of anorectal manometry: sphincterometry and studies of the reservoir function of the rectum before and after treatment (in 17 patients at the second stage).
+76	The patients were prescribed a course of 10-day conservative rehabilitation using the method of biofeedback therapy using the standard protocol at the first stage and the protocol of complex biofeedback therapy at the second stage, as well as as tibial neuromodulation.
+77	The developed complex of rehabilitation measures led to an improvement in the treatment outcomes of patients with rectal cancer by improving the quality of life after low anterior resection and reducing the manifestations of LAR syndrome by 47.8%.
+78	Sustained positive results of treatment were maintained in 36.4% of patients, positive dynamics from the treatment, according to the LAR scale, slightly decreased in 54.5%, worsening of indicators 3-6 months after conservative rehabilitation was recorded in 9.1% of cases.
+79	2) Biofeedback therapy aimed at improving reservoir function and the sensitivity of the descending colon to filling;
+80	The authors modified and optimized a special exercise therapy complex for the rehabilitation of patients both in a medical institution and at home.
+81	The contemporary interpretation of the pathogenesis of varicose vein transformation in young patients indicates the genetically determined nature of this process.
+82	According to T.I. Kadurina's diagnostic criteria, varicose veins of various locations belong to the so-called minor phenomena of undifferentiated connective tissue dysplasia syndrome (NDCT).
+83	However, its impact on the development of varicose veins is not taken into account by all researchers, probably due to the fact that its clinical manifestations are still somewhat unclear.
+84	To prove the role of UCTD syndrome in the development of varicose transformation of veins by examining their wall biopsy specimens at the ultrastructural level.
+85	Vein wall fragments removed from 25 male patients were studied; the average age was 19 years.
+86	All patients are divided into three groups: 1st - patients with left-sided varicocele (VC), 2nd - patients with varicose veins in the lower extremities (VVLE), and 3rd - control.
+87	Electron microscopic examination (EME) and morphometric and statistical analyses were carried out.
+88	EME showed similar changes in the vein wall biopsy specimens obtained from both pediatric and adult patients with VC and VVLE.
+89	Analysis of qualitative parameters of collagen fiber bundles revealed significant differences in their thickness compared to the control group, the phenomenon of "structural chaos", variability in their number in the bundles, irregular thickness of the bundles, discontinuity of individual fibers due to their tortuous course, areas of bundle disorganization and expansion of some inter-fiber spaces.
+90	Morphometric analysis showed a pronounced variability in the number series when measuring the thickness of their beams.
+91	The listed changes point to the primary failure of the connective tissue frame of varicose veins.
+92	The results of the measurements of smooth muscle cells showed a decrease in their volume compared to the control group; there was an excessive overgrowth of connective tissue between them.
+93	Ultrastructural analysis and morphometry results confirm the key role of VATT syndrome in the pathogenesis of VC and VRVNK and make it possible to combine these diseases into one - systemic varicose veins.
+94	The purpose is to analyze the world literature on the problem of treating the combination of stenosis of the internal carotid artery at the extracranial level and arterial aneurysm of the brain, as well as well as to demonstrate the results of surgical treatment on patients with this combined pathology of the carotid basin.
+95	From 2013 to 2019, the combined pathology of the internal carotid artery pool (intracranial aneurysm and extracranial internal carotid stenosis) was found in 35 of the 1,638 patients examined.
+96	In all 35 patients, the intracranial aneurysm was asymptomatic and was detected in the diagnosis of atherosclerotic lesions of the internal carotid artery.
+97	The two-stage surgical approach was used in 2 cases in patients with an ipsilateral brain aneurysm and internal carotid artery stenosis: in stage 1 the arterial aneurysm was clipped, and in stage 2 a carotid endarterectomy was performed.
+98	Only the vascular stage (carotid endarterectomy or internal carotid artery stenting) was performed in 9 patients, and only the neurosurgical stage (aneurysm clipping) - in 4 patients.
+99	The incidence of internal carotid artery stenosis with arterial brain aneurysm was 2.1%, according to our data.
+100	In the group of surgical treatment, in 1 case (6.7%) after the stenting of the symptomatic stenosis of the internal carotid artery, a patient with an ipsilateral asymptomatic aneurysm of the middle cerebral artery developed a 'small' ischemic stroke intraoperatively after stenting.

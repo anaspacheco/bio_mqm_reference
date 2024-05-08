@@ -1,0 +1,100 @@
+1	From July 2010 to August 2014, a total of 5076 individuals were enrolled in 48 centers, 91% of the 4975 eligible patients were followed-up in cardiology centers, and 68.6% were in secondary prevention.
+2	To assess the factors affecting usage we adopted a multivariate regression analysis (Negative Binomial Model).
+3	To quantify income-related inequality/inequity in utilisation we computed the concentration index.
+4	Better self-assessed health and absence of limitations in daily activities decrease usage; suffering from chronic disease increases usage.
+5	Living in Algarve or Madeira, or benefiting only from the National Health Service coverage negatively affects usage.
+6	The possibility for equity in Family Physician visits cannot be discarded.
+7	Portugal evolved favourably in terms of equity in healthcare usage but several challenges remain.
+8	We use data from the National Health Survey 2014.
+9	Healthcare usage is measured by the number of visits to a Family Physician or to a hospital-based specialist.
+10	The observed income-related inequity seems to reflect inequalities in other non-need variables.
+11	Data on the management and prognosis of patients with ST-segment elevation myocardial infarction (STEMI) and multivessel disease are limited in Brazil, showing that the available revascularization strategies should be investigated.
+12	A prospective cohort study was conducted at two medical centers in southern Brazil with a 1-year follow-up after the index procedure.
+13	Their mean age was 62±12 years, and 61 (71.8%) were male.
+14	Data on the management and prognosis of patients with ST-segment elevation myocardial infarction (STEMI) and multivessel disease are limited in Brazil, showing that the available revascularization strategies should be investigated.
+15	Registry data from two centers in southern Brazil demonstrate that the complete revascularization strategy is associated with a significant reduction in primary and secondary outcomes in a 1-year follow-up when compared to the incomplete revascularization strategy (Arq Bras Cardiol. 2020; 115(2):229-237).
+16	After a decade experiencing clear difficulties, the Portuguese National Health Service needs a significant public investment for its development.
+17	To analyze the profiles of the individuals who access the website regarding congenital clubfoot (CC) information and the first ten years of Ponseti method implementation in Brazil.
+18	This study aimed to describe the estimated means for weight, height, and body mass index (BMI) according to two imputation methods, using data from Vigitel (Risk and Protective Factors Surveillance System for Chronic Non-Communicable Diseases Through Telephone Interview).
+19	This was a cross-sectional study that used secondary data from the Vigitel survey from 2006 to 2017.
+20	The two imputation methods used in the study were hot deck and Predictive Mean Matching (PMM).
+21	This was a cross-sectional study that used secondary data from the Vigitel survey from 2006 to 2017.
+22	The two imputation methods used in the study were hot deck and Predictive Mean Matching (PMM).
+23	The results with the Vigitel data suggest the applicability of PMM to the set of health surveys.
+24	Linear prediction is used as a measure of distance between the missing value and the possible donors, thereby creating the virtual space with the candidate cases for yielding the value for imputation.
+25	Spontaneous search for HIV testing only occurs through situations and signs associated with possible infection.
+26	Sixty older men and women (60-79 years) were divided into three groups: control, DM without and with PDN.
+27	( This study showed that neuropaths presented worse physical performance and postural balance deficits, sensorial limitations, affecting the daily tasks and, as a consequence, decreasing the quality of life in Brazilian older adults.
+28	PDN group presented significant differences compared with the other groups, with the worst performance in quality of life than DM2 without PDN in: sensory functioning
+29	To estimate the reporting rates of coronavirus disease 2019 (COVID-19) cases for Brazil as a whole and states.
+30	We estimated the actual number of COVID-19 cases using the reported number of deaths in Brazil and each state, and the expected case-fatality ratio from the World Health Organization.
+31	To estimate the reporting rates of coronavirus disease 2019 (COVID-19) cases for Brazil as a whole and states.
+32	In this original experimental study, novel II, axial compression of bone materials was tested.
+33	To report the results of a real-world long-term team-based care for hypertensive patients we conducted this study.
+34	A total of 1,548 patients were included, with a mean follow-up time of 7.6 ± 7.1 years.
+35	Focus on patients with diabetes, younger than 60 years and males should be given to further improve these results.
+36	A high proportion of the causes of death from CVD corresponded to garbage codes, classified according to the GBD 2017, reaching 42% in 2017.
+37	The conditions affecting the calcaneal tendon remain extremely prevalent in the clinical practice.
+38	The search for information about these diseases in national and international scientific databases are commonly hampered in the use of search tools, requiring the use if an eponym in the strategy.
+39	Achilles, in reference to the hero of the Greek mythology, is often used by several authors in scientific publications despite the new Nomina Anatomica.
+40	Allogeneic stem cell transplantation is an established procedure for a variety of diseases of the hematopoietic system.
+41	We analyzed changes in patients, cell source, transplantation and outcome among 682 consecutive patients receiving their first transplant between 1987 and 2016.
+42	We compared overall survival, progression-free survival, the incidence of nonrelapse mortality and relapse in 10-year cohorts over the three decades of the study.
+43	Our transplant program started in 1987 and since then advances have been made in the care of patients undergoing transplantation.
+44	Allogeneic stem cell transplantation is an established procedure for a variety of diseases of the hematopoietic system.
+45	In the present study, we evaluated how these changes affected our practice along 30 years of activity and compared the results with those published in the literature.
+46	The median age of transplanted patients, the use of peripheral blood and unrelated donors all increased very significantly.
+47	We conducted a study to evaluate whether the changes implemented over time have improved the outcomes of transplantation.
+48	Low-dose edoxaban and enoxaparin sodium have been the subject of a retrospective comparison implemented with the propensity score technique in order to mitigate the effects of the differences in the basal clinical features of two cohorts and minimize the risk of bias.
+49	Subsequently, using a Cox proportional-hazards model, the association of each type of therapy with the risk of the composite of all-cause death, stroke/transient ischemic attack, hospitalizations and major bleeding events was assessed.
+50	Therapy with enoxaparin and liver cirrhosis as causing thrombocytopenia were associated with increased risk of the composite endpoint (enoxaparin: hazard ratio (HR): 3.31; 95% CI: 1.54 to 7.13; p = 0.0023; liver cirrhosis, HR: 1.04; 95% CI: 1.002 to 1.089; p = 0.0410).
+51	Based on this retrospective analysis, edoxaban at low doses would appear as an effective and safe pharmacological tool for the prophylaxis of cardioembolic events in patients with AF and thrombocytopenia.
+52	The total of 93 medical records of patients undergoing transforaminal intersomatic fusion between January 2012 and July 2017 with at least 1 year of postoperative follow-up, with complete medical record, containing clinical file and radiological exams, were reviewed.
+53	Clinical scores, skin barrier function and owner assessment were evaluated on day (D)0, D14, D28 and D42.
+54	A reduction in the total clinical score was seen at each time point (D14, P = 0.03; D28, P = 0.04; D42, P = 0.001).
+55	Clinical scores, skin barrier function and owner assessment were evaluated on day (D)0, D14, D28 and D42.
+56	A reduction in the total clinical score was seen at each time point (D14, P = 0.03; D28, P = 0.04; D42, P = 0.001).
+57	A good-to-excellent response and an easy-to-use administration was reported by owners.
+58	This essay discusses the repercussions of the COVID-19 pandemic on the relation between labor and health, from the perspective of the workers' risk and vulnerability.
+59	The pandemic has represented a humanitarian crisis, since both the disease and the measures to contain it lead to persistent socioeconomic effects.
+60	The essay was initially built on the basis of a literature review on the interface between COVID-19 and workers' health, carried out from December 2019 to April 2020, on the PubMed, BIREME, Cochrane Library, medRxiv and LitCovid bases, as well as using gray literature.
+61	Although the pandemic is still evolving, social inequalities are expected to intensify, with the deep retraction of the economy, and workers must be a priority target of attention in the control and spread of the disease, in addition to being the axis for planning public social and health protection policies.
+62	This essay discusses the repercussions of the COVID-19 pandemic on the relation between labor and health, from the perspective of the workers' risk and vulnerability.
+63	Women seem to be more susceptible to psychosocial stress than men, and stress is associated with worse outcomes after acute myocardial infarction (AMI).
+64	Data were analyzed using SPSS Version 24.0.
+65	The effects of non-pharmacological interventions such as calorie restriction and exercise training on health and prevention of cardiovascular diseases have been investigated in clinical and experimental studies.
+66	Over 12 weeks, control and ET animals were fed daily a standard commercial diet ad libitum , while IF and ETI animals were fed every other day.
+67	The results were analyzed using two-way ANOVA and Student-Newman-Keuls test.
+68	After this period, functional fitness, nutritional parameters and blood glucose levels were analyzed.
+69	We also analyze the trend in the spread of COVID-19 to the interior of the state, considering the percent distribution of cases in the state capital, Recife, municipalities in Greater Metropolitan Recife, and the state's interior, by sets of three weeks, constructing thematic maps.
+70	The peak in the epidemic curve occurred in epidemiological week 21 (May 23), followed by deceleration in the number of cases.
+71	We initially detected the spread of cases from the city center to the periphery of the state capital and Metropolitan Area, followed by rapid spread to the state's interior.
+72	The article analyzes actions in the prevention and control of overweight and obesity that have been developed in the 92 municipalities (counties) in the state of Rio de Janeiro, Brazil, based on underlying principles in the typology of public policies developed by Lowi and Line of Care for Overweight and Obesity, according to the following analytical dimensions: program actions in prevention and control of obesity, characterization of macro policies according to the Lowi typology, and characterization of macro policies according to the Line of Care for Overweight and Obesity.
+73	The study is part of a research project from 2014 to 2018 that aimed to identify the strategies and challenges in the consolidation of the actions planned in the Line of Care for Overweight and Obesity, based on analysis of secondary data and government documents; searches in the municipalities' official websites; interviews; focus groups; and online questionnaires with health professionals and managers.
+74	Even with so many initiatives, the municipalities in the state of Rio de Janeiro face challenges with limited human resources and precarious infrastructure and equipment in the health units.
+75	To identify the main challenges of the family of a child with meningomyelocele (MMC) and correlate the Zarit Burden Interview (ZBI) scale with the World Health Organization Quality of Life-BREF (WHOQOL - BREF).
+76	Persistence in tasks, an aspect of motivation, correlated with physical (r=0.45, p<0.001) and social activity involvement (r=0.28, p<0.05).
+77	To describe leisure participation in adolescents with congenital heart defects (CHD) and identify factors associated with intensity of participation.
+78	We used bivariate and multivariate logistic regression to produce crude (OR) and adjusted odds ratios (aOR).
+79	In a universe of 2,361 subjects, 920 (38.9%) reported engaging in chemsex practice, which involved casual partners in 95% of the cases.
+80	A multicenter online survey was applied to Brazil and Portugal in April 2020 when the two countries were under restrictive health measures due to the pandemic.
+81	DS was assessed using the Yesavage Geriatric Depression Scale - short version (GDS-15).
+82	Familial hypercholesterolemia (FH) is a genetic disease caused by a primary defect in the LDL-receptor gene.
+83	In summary, this report allows for a better insight into the molecular basis of FH in Brazil, a multi-racial country where a heterogeneous population is expected.
+84	We found decreases in the number of cardiology consultations, exercise tests, Holter, ambulatory blood pressure monitoring, electrocardiogram, and echocardiogram (90%, 84%, 94%, 92%, 94%, and 81%, respectively).
+85	We still do not have information regarding the impact of the COVID-19 pandemic on medical care activity in Brazil.
+86	Transcatheter aortic valve replacement (TAVR) can reduce mortality among patients with aortic stenosis.
+87	Knowledge of pressure distribution and shear stress at the aortic wall may help identify critical regions, where aortic remodeling process may occur.
+88	The present analysis provides a perspective of great variance on flow behavior due only to angle changes.
+89	Transcatheter aortic valve replacement (TAVR) can reduce mortality among patients with aortic stenosis.
+90	Small variations of the tilt angle could modify the nature of the flow, displacing the position of the vortices, and altering the prerssure distribution and the location of high wall shear stress.
+91	Transcatheter aortic valve replacement (TAVR) can reduce mortality among patients with aortic stenosis.
+92	The study aimed to compare two concepts of rurality, one proposed by the Brazilian Institute of Geography and Statistics (IBGE) and the other by the World Bank, to determine which is better fitted to the territory's reality, besides analyzing the infant mortality profile of rural municipalities (counties) in the state of Paraíba, Brazil, according to the best criterion for rurality.
+93	The data were obtained from the Mortality Information System of the Brazilian Ministry of Health, from 2007 to 2016, and municipal indicators were from IBGE.
+94	The predominant epidemiological profile of infant mortality in rural municipalities in Paraiba state was male gender (57.4%), brown skin color (61.1%), age from 0 to 7 days (52.4%), low birthweight (44%), and gestational age less than 37 weeks (43.2%).
+95	(7.13% [95%CI 4.55; 9.70],  We confirmed that these different tools can differentiate RTP for non-RTP patients, which may contribute to the physician's decision about the ideal time for RTP.
+96	To systematically review and meta-analyze the performance of return to play (RTP) and non-RTP patients in different assessment tools after anterior cruciate ligament reconstructions (ACLR).
+97	Out of 182 studies searched on PubMed, 11 presented RTP and non-RTP groups assessing the performance of young individuals, practitioners of different sports, with different tools.
+98	Service Availability and Readiness Assessment (SARA) tools were used for data collection, treatment and analysis.
+99	Multimorbidity was defined as ≥ 2 chronic conditions based on a list of 15 diseases considered risk conditions for severe COVID-19.
+100	An estimated 2.4 million Brazilians are at serious health risk.
